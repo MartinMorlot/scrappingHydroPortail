@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 selenium = "*"
 requests = "*"
+geopandas = "*"
+shapely = "*"
 
 [dev-packages]
 

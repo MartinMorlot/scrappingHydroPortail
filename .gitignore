@@ -3,4 +3,15 @@
 *.html
 *.csv
 
+
+
 __pycache__/
+.Rproj.user
+
+Plots/
+
+*.png
+*.pdf
+
+
+*.gpkg
