@@ -39,6 +39,7 @@ for(file_to_read in station_files){
   id <- stations_ids[i]
     dataFrame_combined_data[id] <- serie_data
   i<- i+1
+  break
 }
 
 matplot(dataFrame_combined_data$date[which(format(dataFrame_combined_data$date, "%Y") > 2015)],

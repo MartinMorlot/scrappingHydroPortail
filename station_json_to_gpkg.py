@@ -27,3 +27,13 @@ condition=(geodata['# of data points'] > 15) & (geodata['# of singular years'] >
 retained = geodata[condition]
 
 retained.to_file("retained_station_with_correction.gpkg", layer="retained_station_with_correction.gpkg", driver="GPKG")
+
+geodata["condition"] = condition
+
+geodata['over_15points'] =  geodata['# of data points'] > 15
+geodata['over_2years'] = geodata['# of singular years'] > 2
+geodata['negative_average'] = geodata['average of data points'] <= 0
+geodata["no_postive_points"] = geodata["# of positive points"] / geodata["# of data points"]
+
+
+geodata.to_file("geodata_station_with_correction.gpkg", layer="geodata_station_with_correction.gpkg", driver="GPKG")
