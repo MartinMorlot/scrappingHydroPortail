@@ -7,9 +7,11 @@ from BrowserDriver import Driver
 from json_utility import json_to_python
 
 
-all_data = json_to_python("all_stations.json")
+all_data = json_to_python("all_stations_extra.json")
 
-station_with_department = [i for i in all_data["data"] if i["code_departement"]]
+# station_with_department = [i for i in all_data["data"] if i["code_departement"]]
+
+station_with_department = [i for i in all_data["data"]]
 
 #print(station_with_department)
 
@@ -83,6 +85,6 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         for future in concurrent.futures.as_completed(futures):
             print(future.result())
 
-with open("station_with_correction.csv",  "w") as file:
+with open("station_with_correction_more.csv",  "w") as file:
     for station in stations_with_corection:
         file.writelines(station+"\n")

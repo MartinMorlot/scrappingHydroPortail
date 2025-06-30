@@ -8,14 +8,14 @@ from BrowserDriver import Driver
 
 
 all_stations = []
-with open("station_with_correction.csv", "r") as file:
+with open("station_with_correction_more.csv", "r") as file:
     for line in file:
         station = line.strip()
         all_stations.append(station)
 
 
-station_data_raw = json_utility.json_to_python("all_stations.json")
-site_data_raw = json_utility.json_to_python("all_sites.json")
+station_data_raw = json_utility.json_to_python("all_stations_extra.json")
+site_data_raw = json_utility.json_to_python("all_sites_extra.json")
 
 station_data_clean = json_utility.get_data(station_data_raw)
 site_data_clean = json_utility.get_data(site_data_raw)
@@ -100,6 +100,7 @@ def get_corrections_and_data(station_test):
         "Surface_bv (km²)": site_info["surface_bv"],
         "Altitude (m)": site_info["altitude_site"],
         "Geometry": site_info["geometry"],
+        "en_service": station_info["en_service"],
         "Start Year": startY,
         "End Year": endY,
         "# of data points": dataPoint,
@@ -130,7 +131,7 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         for future in concurrent.futures.as_completed(futures):
             all_data_station.append(future.result())
 
-json_utility.data_as_json_file(all_data_station, "Correction_station_info.json")
+json_utility.data_as_json_file(all_data_station, "Correction_station_info_more.json")
 
 
 

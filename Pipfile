@@ -8,6 +8,7 @@ selenium = "*"
 requests = "*"
 geopandas = "*"
 shapely = "*"
+pyodbc = "*"
 
 [dev-packages]
 

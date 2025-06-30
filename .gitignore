@@ -1,5 +1,8 @@
 *.zip
 
+# Avoid db files
+*.MDB
+
 *.html
 *.csv
 

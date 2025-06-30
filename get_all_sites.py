@@ -32,3 +32,12 @@ response_good = pretty_json(response)
 
 with open("all_sites.json", "w") as file:
     file.write(response_good)
+
+complete_url = make_url(API_url, None, 9000,0)
+
+response = requests.get(complete_url)
+
+response_good = pretty_json(response)
+
+with open("all_sites_extra.json", "w") as file:
+    file.write(response_good)
