@@ -1,0 +1,4613 @@
+[
+    {
+        "Station": "K177301001",
+        "Site": "K1773010",
+        "Name_station": "L'Aron \u00e0 Verneuil",
+        "Surface_bv (km\u00b2)": 1465.0,
+        "Altitude (m)": 196.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.5758317416620073,
+                46.851901322242284
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2011",
+        "End Year": "2025",
+        "# of data points": 128,
+        "# of positive points": 0,
+        "average of data points": -0.590390625,
+        "# of singular years": 14,
+        "File_location": "Correction_data_DB/K177301001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K571231001",
+        "Site": "K5712310",
+        "Name_station": "L'Y\u00e8vre \u00e0 Fo\u00ebcy",
+        "Surface_bv (km\u00b2)": 1970.0,
+        "Altitude (m)": 110.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.169076469182259,
+                47.187202383312666
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2010",
+        "End Year": "2026",
+        "# of data points": 91,
+        "# of positive points": 0,
+        "average of data points": -0.6962637362637362,
+        "# of singular years": 11,
+        "File_location": "Correction_data_DB/K571231001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K649251001",
+        "Site": "K6492510",
+        "Name_station": "La Sauldre \u00e0 Selles-sur-Cher - Saint-Andr\u00e9 - Ancienne",
+        "Surface_bv (km\u00b2)": 2287.0,
+        "Altitude (m)": 73.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.5349664908168312,
+                47.28649093844294
+            ]
+        },
+        "en_service": false,
+        "Start Year": "2001",
+        "End Year": "2014",
+        "# of data points": 134,
+        "# of positive points": 1,
+        "average of data points": -1.7593283582089552,
+        "# of singular years": 8,
+        "File_location": "Correction_data_DB/K649251001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K549090001",
+        "Site": "K5490900",
+        "Name_station": "Le Cher \u00e0 Vierzon",
+        "Surface_bv (km\u00b2)": 4550.0,
+        "Altitude (m)": 96.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.06565919376165,
+                47.216566612253175
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2006",
+        "End Year": "2026",
+        "# of data points": 340,
+        "# of positive points": 0,
+        "average of data points": -0.7014411764705882,
+        "# of singular years": 21,
+        "File_location": "Correction_data_DB/K549090001.csv",
+        "Commentaire": "Barrage de Rochebut."
+    },
+    {
+        "Station": "K139181001",
+        "Site": "K1391810",
+        "Name_station": "L'Arroux \u00e0 Digoin - Le Verdier",
+        "Surface_bv (km\u00b2)": 3166.0,
+        "Altitude (m)": 255.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.9892453194972943,
+                46.494964204475444
+            ]
+        },
+        "en_service": false,
+        "Start Year": "2008",
+        "End Year": "2023",
+        "# of data points": 129,
+        "# of positive points": 0,
+        "average of data points": -1.7296124031007754,
+        "# of singular years": 11,
+        "File_location": "Correction_data_DB/K139181001.csv",
+        "Commentaire": "Station influenc\u00e9e en hautes eaux par les crues de la Loire."
+    },
+    {
+        "Station": "K134181001",
+        "Site": "K1341810",
+        "Name_station": "L'Arroux \u00e0 Rigny-sur-Arroux",
+        "Surface_bv (km\u00b2)": 2277.0,
+        "Altitude (m)": 237.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.034500304479264,
+                46.53457399467951
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2009",
+        "End Year": "2025",
+        "# of data points": 215,
+        "# of positive points": 0,
+        "average of data points": -0.8085581395348836,
+        "# of singular years": 16,
+        "File_location": "Correction_data_DB/K134181001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K555230001",
+        "Site": "K5552300",
+        "Name_station": "L'Y\u00e8vre \u00e0 Savigny-en-Septaine",
+        "Surface_bv (km\u00b2)": 531.0,
+        "Altitude (m)": 141.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.5632783911907944,
+                47.05009861105684
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2009",
+        "End Year": "2024",
+        "# of data points": 110,
+        "# of positive points": 0,
+        "average of data points": -0.2776363636363636,
+        "# of singular years": 11,
+        "File_location": "Correction_data_DB/K555230001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K633252001",
+        "Site": "K6332520",
+        "Name_station": "La Sauldre \u00e0 Brinon-sur-Sauldre",
+        "Surface_bv (km\u00b2)": 606.0,
+        "Altitude (m)": 128.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.258762682035278,
+                47.56409702310174
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2007",
+        "End Year": "2025",
+        "# of data points": 230,
+        "# of positive points": 0,
+        "average of data points": -0.24217391304347824,
+        "# of singular years": 18,
+        "File_location": "Correction_data_DB/K633252001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "H320331001",
+        "Site": "H3203310",
+        "Name_station": "Le Puiseaux \u00e0 Saint-Hilaire-sur-Puiseaux",
+        "Surface_bv (km\u00b2)": 94.0,
+        "Altitude (m)": 96.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.700892099620464,
+                47.92229085294891
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2011",
+        "End Year": "2025",
+        "# of data points": 72,
+        "# of positive points": 1,
+        "average of data points": -0.51625,
+        "# of singular years": 9,
+        "File_location": "Correction_data_DB/H320331001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K622091003",
+        "Site": "K6220910",
+        "Name_station": "Le Cher \u00e0 Selles-sur-Cher - Pont D 956A",
+        "Surface_bv (km\u00b2)": 9252.0,
+        "Altitude (m)": 75.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.5331331247942803,
+                47.27318683725391
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2005",
+        "End Year": "2015",
+        "# of data points": 106,
+        "# of positive points": 0,
+        "average of data points": -1.1149056603773584,
+        "# of singular years": 8,
+        "File_location": "Correction_data_DB/K622091003.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K650091001",
+        "Site": "K6500910",
+        "Name_station": "Le Cher \u00e0 Ch\u00e2tillon-sur-Cher",
+        "Surface_bv (km\u00b2)": 11571.0,
+        "Altitude (m)": 74.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.4881429107507063,
+                47.27025011995752
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2009",
+        "End Year": "2023",
+        "# of data points": 80,
+        "# of positive points": 0,
+        "average of data points": -0.430875,
+        "# of singular years": 7,
+        "File_location": "Correction_data_DB/K650091001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K562301001",
+        "Site": "K5623010",
+        "Name_station": "L'Auron au Pondy",
+        "Surface_bv (km\u00b2)": 199.0,
+        "Altitude (m)": 167.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.6507436721147872,
+                46.80513667263992
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2014",
+        "End Year": "2021",
+        "# of data points": 27,
+        "# of positive points": 0,
+        "average of data points": -0.39,
+        "# of singular years": 4,
+        "File_location": "Correction_data_DB/K562301001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K659302001",
+        "Site": "K6593020",
+        "Name_station": "Le Fouzon \u00e0 Meusnes - Le Gu\u00e9 au Loup",
+        "Surface_bv (km\u00b2)": 1002.0,
+        "Altitude (m)": 66.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.4846260649727132,
+                47.26032663966735
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2004",
+        "End Year": "2024",
+        "# of data points": 240,
+        "# of positive points": 1,
+        "average of data points": -0.45479166666666665,
+        "# of singular years": 20,
+        "File_location": "Correction_data_DB/K659302001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K118001010",
+        "Site": "K1180010",
+        "Name_station": "La Loire \u00e0 Digoin - Pont canal",
+        "Surface_bv (km\u00b2)": 9315.0,
+        "Altitude (m)": 227.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.9830357134169465,
+                46.47816900440775
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2016",
+        "End Year": "2023",
+        "# of data points": 51,
+        "# of positive points": 0,
+        "average of data points": -0.3049019607843137,
+        "# of singular years": 6,
+        "File_location": "Correction_data_DB/K118001010.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K731261001",
+        "Site": "K7312610",
+        "Name_station": "L'Indre \u00e0 Saint-Cyran-du-Jambot",
+        "Surface_bv (km\u00b2)": 1712.0,
+        "Altitude (m)": 85.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.1270778876920202,
+                47.016871718859356
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2011",
+        "End Year": "2025",
+        "# of data points": 22,
+        "# of positive points": 0,
+        "average of data points": -0.08636363636363636,
+        "# of singular years": 5,
+        "File_location": "Correction_data_DB/K731261001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K447001001",
+        "Site": "K4470010",
+        "Name_station": "La Loire \u00e0 Blois",
+        "Surface_bv (km\u00b2)": 38320.0,
+        "Altitude (m)": 70.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.3351479476905552,
+                47.584957074484784
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2016",
+        "End Year": "2023",
+        "# of data points": 11,
+        "# of positive points": 0,
+        "average of data points": -0.5790909090909091,
+        "# of singular years": 2,
+        "File_location": "Correction_data_DB/K447001001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K671091001",
+        "Site": "K6710910",
+        "Name_station": "Le Cher \u00e0 Tours - Pont Saint-Sauveur",
+        "Surface_bv (km\u00b2)": 13615.0,
+        "Altitude (m)": 47.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                0.6780092996072723,
+                47.373102769137724
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2006",
+        "End Year": "2026",
+        "# of data points": 201,
+        "# of positive points": 0,
+        "average of data points": -1.126268656716418,
+        "# of singular years": 20,
+        "File_location": "Correction_data_DB/K671091001.csv",
+        "Commentaire": "Probl\u00e8mes de vannages et de v\u00e9g\u00e9tation."
+    },
+    {
+        "Station": "K479301001",
+        "Site": "K4793010",
+        "Name_station": "Le Cosson \u00e0 Chailles",
+        "Surface_bv (km\u00b2)": 740.0,
+        "Altitude (m)": 80.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.309387151532557,
+                47.54368434830269
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2006",
+        "End Year": "2023",
+        "# of data points": 108,
+        "# of positive points": 0,
+        "average of data points": -0.25787037037037036,
+        "# of singular years": 11,
+        "File_location": "Correction_data_DB/K479301001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K720261001",
+        "Site": "K7202610",
+        "Name_station": "L'Indre \u00e0 Ardentes",
+        "Surface_bv (km\u00b2)": 685.0,
+        "Altitude (m)": 152.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.830584879612678,
+                46.7419170747052
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2008",
+        "End Year": "2024",
+        "# of data points": 160,
+        "# of positive points": 0,
+        "average of data points": -0.49693750000000003,
+        "# of singular years": 10,
+        "File_location": "Correction_data_DB/K720261001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K640252001",
+        "Site": "K6402520",
+        "Name_station": "La Sauldre \u00e0 Salbris - Valaudran",
+        "Surface_bv (km\u00b2)": 1211.0,
+        "Altitude (m)": 98.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.0321858209236634,
+                47.42380190651473
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2017",
+        "End Year": "2023",
+        "# of data points": 18,
+        "# of positive points": 0,
+        "average of data points": -0.2222222222222222,
+        "# of singular years": 3,
+        "File_location": "Correction_data_DB/K640252001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K565301001",
+        "Site": "K5653010",
+        "Name_station": "L'Auron \u00e0 Bourges - L'Ormediot",
+        "Surface_bv (km\u00b2)": 585.0,
+        "Altitude (m)": 130.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.4480593014138567,
+                47.0369647026248
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2012",
+        "End Year": "2026",
+        "# of data points": 72,
+        "# of positive points": 0,
+        "average of data points": -0.16597222222222222,
+        "# of singular years": 11,
+        "File_location": "Correction_data_DB/K565301001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K407311001",
+        "Site": "K4073110",
+        "Name_station": "La Vauvise \u00e0 Saint-Bouize - La Grange",
+        "Surface_bv (km\u00b2)": 392.0,
+        "Altitude (m)": 150.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.8965024750187016,
+                47.27071032579143
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2009",
+        "End Year": "2023",
+        "# of data points": 69,
+        "# of positive points": 0,
+        "average of data points": -0.4594202898550725,
+        "# of singular years": 7,
+        "File_location": "Correction_data_DB/K407311001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "M107302001",
+        "Site": "M1073020",
+        "Name_station": "La Conie \u00e0 Conie-Molitard",
+        "Surface_bv (km\u00b2)": 1440.0,
+        "Altitude (m)": 112.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.4521486691222942,
+                48.121073819120824
+            ]
+        },
+        "en_service": true,
+        "Start Year": "1999",
+        "End Year": "2026",
+        "# of data points": 350,
+        "# of positive points": 0,
+        "average of data points": -0.6154,
+        "# of singular years": 28,
+        "File_location": "Correction_data_DB/M107302001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K538302001",
+        "Site": "K5383020",
+        "Name_station": "L'Aumance \u00e0 H\u00e9risson",
+        "Surface_bv (km\u00b2)": 920.0,
+        "Altitude (m)": 197.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.7130490241300356,
+                46.50780711872247
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2015",
+        "End Year": "2023",
+        "# of data points": 35,
+        "# of positive points": 0,
+        "average of data points": -0.07628571428571429,
+        "# of singular years": 9,
+        "File_location": "Correction_data_DB/K538302001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K702262001",
+        "Site": "K7022620",
+        "Name_station": "L'Indre \u00e0 Montgivray",
+        "Surface_bv (km\u00b2)": 227.0,
+        "Altitude (m)": 191.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.979289666696901,
+                46.600201245425694
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2012",
+        "End Year": "2026",
+        "# of data points": 42,
+        "# of positive points": 0,
+        "average of data points": -0.3719047619047619,
+        "# of singular years": 10,
+        "File_location": "Correction_data_DB/K702262001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K485300001",
+        "Site": "K4853000",
+        "Name_station": "La Cisse \u00e0 Nazelles-N\u00e9gron",
+        "Surface_bv (km\u00b2)": 790.0,
+        "Altitude (m)": 53.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                0.9659648077569343,
+                47.43485253410901
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2003",
+        "End Year": "2024",
+        "# of data points": 281,
+        "# of positive points": 0,
+        "average of data points": -0.5548398576512455,
+        "# of singular years": 21,
+        "File_location": "Correction_data_DB/K485300001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K480001001",
+        "Site": "K4800010",
+        "Name_station": "La Loire \u00e0 Onzain - Pont de Chaumont",
+        "Surface_bv (km\u00b2)": 40500.0,
+        "Altitude (m)": 65.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.1903353666363765,
+                47.48557796122158
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2019",
+        "End Year": "2023",
+        "# of data points": 25,
+        "# of positive points": 0,
+        "average of data points": -0.608,
+        "# of singular years": 4,
+        "File_location": "Correction_data_DB/K480001001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K117321001",
+        "Site": "K1173210",
+        "Name_station": "L'Arconce \u00e0 Montceaux-l'\u00c9toile",
+        "Surface_bv (km\u00b2)": 599.0,
+        "Altitude (m)": 245.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.049810157756213,
+                46.35797433360847
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2017",
+        "End Year": "2026",
+        "# of data points": 24,
+        "# of positive points": 0,
+        "average of data points": -0.22583333333333333,
+        "# of singular years": 7,
+        "File_location": "Correction_data_DB/K117321001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K365081001",
+        "Site": "K3650810",
+        "Name_station": "L'Allier \u00e0 Cuffy - Pont du Gu\u00e9tin",
+        "Surface_bv (km\u00b2)": 14310.0,
+        "Altitude (m)": 175.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.0706498918388307,
+                46.94620677200179
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2010",
+        "End Year": "2024",
+        "# of data points": 24,
+        "# of positive points": 0,
+        "average of data points": -0.5945833333333334,
+        "# of singular years": 4,
+        "File_location": "Correction_data_DB/K365081001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K543302001",
+        "Site": "K5433020",
+        "Name_station": "La Marmande \u00e0 Saint-Pierre-les-\u00c9tieux - Br\u00e9beurre",
+        "Surface_bv (km\u00b2)": 206.0,
+        "Altitude (m)": 172.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.6234275601042647,
+                46.72683122349444
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2015",
+        "End Year": "2024",
+        "# of data points": 27,
+        "# of positive points": 0,
+        "average of data points": -0.07111111111111111,
+        "# of singular years": 6,
+        "File_location": "Correction_data_DB/K543302001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K619242001",
+        "Site": "K6192420",
+        "Name_station": "L'Arnon \u00e0 M\u00e9reau - Alnay",
+        "Surface_bv (km\u00b2)": 2164.0,
+        "Altitude (m)": 100.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.0324528939425086,
+                47.18051446445141
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2014",
+        "End Year": "2025",
+        "# of data points": 48,
+        "# of positive points": 0,
+        "average of data points": -0.22708333333333333,
+        "# of singular years": 8,
+        "File_location": "Correction_data_DB/K619242001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K193001010",
+        "Site": "K1930010",
+        "Name_station": "La Loire \u00e0 Nevers",
+        "Surface_bv (km\u00b2)": 17570.0,
+        "Altitude (m)": 175.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.1653321680159876,
+                46.98281236713157
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2020",
+        "End Year": "2024",
+        "# of data points": 16,
+        "# of positive points": 0,
+        "average of data points": -0.129375,
+        "# of singular years": 3,
+        "File_location": "Correction_data_DB/K193001010.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K683002001",
+        "Site": "K6830020",
+        "Name_station": "La Loire \u00e0 Langeais",
+        "Surface_bv (km\u00b2)": 56480.0,
+        "Altitude (m)": 36.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                0.40530576161022347,
+                47.319856739226154
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2023",
+        "End Year": "2023",
+        "# of data points": 8,
+        "# of positive points": 0,
+        "average of data points": -0.52875,
+        "# of singular years": 1,
+        "File_location": "Correction_data_DB/K683002001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K435001020",
+        "Site": "K4350010",
+        "Name_station": "La Loire \u00e0 Orl\u00e9ans - Quai du Roi",
+        "Surface_bv (km\u00b2)": 36970.0,
+        "Altitude (m)": 95.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.9047891133705013,
+                47.89732386371906
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2023",
+        "End Year": "2023",
+        "# of data points": 5,
+        "# of positive points": 0,
+        "average of data points": -0.084,
+        "# of singular years": 1,
+        "File_location": "Correction_data_DB/K435001020.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K444301001",
+        "Site": "K4443010",
+        "Name_station": "L'Ardoux \u00e0 Lailly-en-Val",
+        "Surface_bv (km\u00b2)": 228.0,
+        "Altitude (m)": 78.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.6557547266917396,
+                47.747510064518245
+            ]
+        },
+        "en_service": true,
+        "Start Year": "1990",
+        "End Year": "2025",
+        "# of data points": 41,
+        "# of positive points": 2,
+        "average of data points": -0.8917073170731707,
+        "# of singular years": 6,
+        "File_location": "Correction_data_DB/K444301001.csv",
+        "Commentaire": "Barrage de castor, donn\u00e9es incertaines pour le moment"
+    },
+    {
+        "Station": "K533311001",
+        "Site": "K5333110",
+        "Name_station": "Le Bandais \u00e0 Vieure",
+        "Surface_bv (km\u00b2)": 130.0,
+        "Altitude (m)": 233.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.9015369794504307,
+                46.50796264792138
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2011",
+        "End Year": "2024",
+        "# of data points": 39,
+        "# of positive points": 0,
+        "average of data points": -0.34179487179487184,
+        "# of singular years": 8,
+        "File_location": "Correction_data_DB/K533311001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K534321001",
+        "Site": "K5343210",
+        "Name_station": "L'Oeil \u00e0 Malicorne - Beaufrancon",
+        "Surface_bv (km\u00b2)": 126.0,
+        "Altitude (m)": 331.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.7548878075541388,
+                46.313079545342994
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2015",
+        "End Year": "2023",
+        "# of data points": 34,
+        "# of positive points": 0,
+        "average of data points": -0.4111764705882353,
+        "# of singular years": 6,
+        "File_location": "Correction_data_DB/K534321001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K132181010",
+        "Site": "K1321810",
+        "Name_station": "L'Arroux \u00e0 \u00c9tang-sur-Arroux - Pont du Tacot",
+        "Surface_bv (km\u00b2)": 1798.0,
+        "Altitude (m)": 273.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.19247905310404,
+                46.851459276931934
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2020",
+        "End Year": "2023",
+        "# of data points": 11,
+        "# of positive points": 0,
+        "average of data points": -0.31363636363636366,
+        "# of singular years": 2,
+        "File_location": "Correction_data_DB/K132181010.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K540092001",
+        "Site": "K5400920",
+        "Name_station": "Le Cher \u00e0 Saint-Amand-Montrond",
+        "Surface_bv (km\u00b2)": 3492.0,
+        "Altitude (m)": 155.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.4906082913724714,
+                46.725913642591244
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2018",
+        "End Year": "2022",
+        "# of data points": 11,
+        "# of positive points": 1,
+        "average of data points": -0.15181818181818182,
+        "# of singular years": 3,
+        "File_location": "Correction_data_DB/K540092001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "H332201001",
+        "Site": "H3322010",
+        "Name_station": "La Bezonde \u00e0 Pannes",
+        "Surface_bv (km\u00b2)": 339.0,
+        "Altitude (m)": 83.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.675656766260465,
+                48.00288544899919
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2010",
+        "End Year": "2026",
+        "# of data points": 52,
+        "# of positive points": 1,
+        "average of data points": -0.18884615384615383,
+        "# of singular years": 8,
+        "File_location": "Correction_data_DB/H332201001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K144001010",
+        "Site": "K1440010",
+        "Name_station": "La Loire \u00e0 Gilly-sur-Loire",
+        "Surface_bv (km\u00b2)": 13007.0,
+        "Altitude (m)": 215.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.766202763210352,
+                46.53802695937858
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2019",
+        "End Year": "2023",
+        "# of data points": 15,
+        "# of positive points": 0,
+        "average of data points": -0.5813333333333334,
+        "# of singular years": 2,
+        "File_location": "Correction_data_DB/K144001010.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K557410001",
+        "Site": "K5574100",
+        "Name_station": "Le Moulon \u00e0 Bourges - Asni\u00e8res",
+        "Surface_bv (km\u00b2)": 104.0,
+        "Altitude (m)": 131.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.4213798974328813,
+                47.12399595200828
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2009",
+        "End Year": "2026",
+        "# of data points": 88,
+        "# of positive points": 0,
+        "average of data points": -0.24136363636363636,
+        "# of singular years": 9,
+        "File_location": "Correction_data_DB/K557410001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K438311001",
+        "Site": "K4383110",
+        "Name_station": "La Dhuy \u00e0 Saint-Cyr-en-Val - Gobson - Ancienne",
+        "Surface_bv (km\u00b2)": 216.0,
+        "Altitude (m)": 92.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.9439030412291252,
+                47.849222930294914
+            ]
+        },
+        "en_service": false,
+        "Start Year": "1989",
+        "End Year": "2012",
+        "# of data points": 20,
+        "# of positive points": 2,
+        "average of data points": 0.1515,
+        "# of singular years": 4,
+        "File_location": "Correction_data_DB/K438311001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K554301001",
+        "Site": "K5543010",
+        "Name_station": "L'Airin \u00e0 Crosses - Ancienne",
+        "Surface_bv (km\u00b2)": 300.0,
+        "Altitude (m)": 146.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.5798027129858383,
+                47.01043676115338
+            ]
+        },
+        "en_service": false,
+        "Start Year": "2012",
+        "End Year": "2013",
+        "# of data points": 13,
+        "# of positive points": 0,
+        "average of data points": -0.0976923076923077,
+        "# of singular years": 2,
+        "File_location": "Correction_data_DB/K554301001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K633401001",
+        "Site": "K6334010",
+        "Name_station": "La N\u00e8re \u00e0 Aubigny-sur-N\u00e8re",
+        "Surface_bv (km\u00b2)": 79.0,
+        "Altitude (m)": 180.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.4357743573843136,
+                47.491570495601906
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2020",
+        "End Year": "2023",
+        "# of data points": 8,
+        "# of positive points": 0,
+        "average of data points": -0.10125,
+        "# of singular years": 2,
+        "File_location": "Correction_data_DB/K633401001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K637302001",
+        "Site": "K6373020",
+        "Name_station": "La Petite Sauldre \u00e0 M\u00e9n\u00e9tr\u00e9ol-sur-Sauldre - Ancienne",
+        "Surface_bv (km\u00b2)": 318.0,
+        "Altitude (m)": 146.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.304963592148604,
+                47.44665430864999
+            ]
+        },
+        "en_service": false,
+        "Start Year": "2012",
+        "End Year": "2012",
+        "# of data points": 4,
+        "# of positive points": 0,
+        "average of data points": -0.1625,
+        "# of singular years": 1,
+        "File_location": "Correction_data_DB/K637302001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K401301001",
+        "Site": "K4013010",
+        "Name_station": "L'Aubois \u00e0 Grossouvre - Tr\u00e9zy",
+        "Surface_bv (km\u00b2)": 140.0,
+        "Altitude (m)": 183.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.9325011638980034,
+                46.894667118968336
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2022",
+        "End Year": "2025",
+        "# of data points": 18,
+        "# of positive points": 0,
+        "average of data points": -0.3016666666666667,
+        "# of singular years": 4,
+        "File_location": "Correction_data_DB/K401301001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K721751001",
+        "Site": "K7217510",
+        "Name_station": "La Tr\u00e9gonce \u00e0 Vineuil - Pont de Pierre",
+        "Surface_bv (km\u00b2)": 19.5,
+        "Altitude (m)": 150.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.6355221912967193,
+                46.9263885864714
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2021",
+        "End Year": "2024",
+        "# of data points": 10,
+        "# of positive points": 0,
+        "average of data points": -0.039,
+        "# of singular years": 4,
+        "File_location": "Correction_data_DB/K721751001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K751401001",
+        "Site": "K7514010",
+        "Name_station": "L'Echandon \u00e0 Saint-Branchs",
+        "Surface_bv (km\u00b2)": 127.0,
+        "Altitude (m)": 63.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                0.8189162740059718,
+                47.247365239471996
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2006",
+        "End Year": "2020",
+        "# of data points": 24,
+        "# of positive points": 0,
+        "average of data points": -0.5641666666666666,
+        "# of singular years": 4,
+        "File_location": "Correction_data_DB/K751401001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K441409001",
+        "Site": "K4414090",
+        "Name_station": "La Mauve de D\u00e9tourbe \u00e0 Meung-sur-Loire",
+        "Surface_bv (km\u00b2)": 274.0,
+        "Altitude (m)": 90.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.6946132202091617,
+                47.82022283944859
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2008",
+        "End Year": "2024",
+        "# of data points": 201,
+        "# of positive points": 1,
+        "average of data points": -0.7160696517412936,
+        "# of singular years": 16,
+        "File_location": "Correction_data_DB/K441409001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K544000201",
+        "Site": "K5440002",
+        "Name_station": "La Loubi\u00e8re \u00e0 Faverdines",
+        "Surface_bv (km\u00b2)": 73.0,
+        "Altitude (m)": 180.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.4729433943386137,
+                46.653168735154956
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2022",
+        "End Year": "2024",
+        "# of data points": 34,
+        "# of positive points": 0,
+        "average of data points": -0.14,
+        "# of singular years": 3,
+        "File_location": "Correction_data_DB/K544000201.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K720751001",
+        "Site": "K7207510",
+        "Name_station": "La Ringoire \u00e0 D\u00e9ols",
+        "Surface_bv (km\u00b2)": 97.0,
+        "Altitude (m)": 141.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.6891942082497324,
+                46.83454862391464
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2004",
+        "End Year": "2026",
+        "# of data points": 83,
+        "# of positive points": 0,
+        "average of data points": -0.35337349397590356,
+        "# of singular years": 12,
+        "File_location": "Correction_data_DB/K720751001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "M112481001",
+        "Site": "M1124810",
+        "Name_station": "L'Aigre \u00e0 Romilly-sur-Aigre - ANCIENNE",
+        "Surface_bv (km\u00b2)": 276.0,
+        "Altitude (m)": 100.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.3047883219367469,
+                47.985528284873546
+            ]
+        },
+        "en_service": false,
+        "Start Year": "2007",
+        "End Year": "2023",
+        "# of data points": 22,
+        "# of positive points": 0,
+        "average of data points": -0.06545454545454546,
+        "# of singular years": 5,
+        "File_location": "Correction_data_DB/M112481001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K743303001",
+        "Site": "K7433030",
+        "Name_station": "L'Indrois \u00e0 Genill\u00e9",
+        "Surface_bv (km\u00b2)": 396.0,
+        "Altitude (m)": 76.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.0966076297761858,
+                47.179709834278384
+            ]
+        },
+        "en_service": true,
+        "Start Year": "1983",
+        "End Year": "2026",
+        "# of data points": 62,
+        "# of positive points": 2,
+        "average of data points": -0.1135483870967742,
+        "# of singular years": 14,
+        "File_location": "Correction_data_DB/K743303001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "H402203001",
+        "Site": "H4022030",
+        "Name_station": "L'Essonne \u00e0 Boulancourt",
+        "Surface_bv (km\u00b2)": 609.0,
+        "Altitude (m)": 73.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.427537525360276,
+                48.25772433679134
+            ]
+        },
+        "en_service": true,
+        "Start Year": "1996",
+        "End Year": "2020",
+        "# of data points": 57,
+        "# of positive points": 0,
+        "average of data points": -0.2715789473684211,
+        "# of singular years": 10,
+        "File_location": "Correction_data_DB/H402203001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "H403301001",
+        "Site": "H4033010",
+        "Name_station": "La Juine \u00e0 M\u00e9r\u00e9ville [Ancienne] - Ancienne",
+        "Surface_bv (km\u00b2)": 199.0,
+        "Altitude (m)": 85.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.1017599689247137,
+                48.33296324561228
+            ]
+        },
+        "en_service": false,
+        "Start Year": "1985",
+        "End Year": "2016",
+        "# of data points": 191,
+        "# of positive points": 15,
+        "average of data points": -0.2495811518324607,
+        "# of singular years": 23,
+        "File_location": "Correction_data_DB/H403301001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K658000101",
+        "Site": "K6580001",
+        "Name_station": "Le Nahon \u00e0 Poulaines - Barzelle",
+        "Surface_bv (km\u00b2)": 285.0,
+        "Altitude (m)": 94.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.6011041135344206,
+                47.17769176518744
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2020",
+        "End Year": "2026",
+        "# of data points": 42,
+        "# of positive points": 0,
+        "average of data points": -0.18952380952380954,
+        "# of singular years": 7,
+        "File_location": "Correction_data_DB/K658000101.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K542401001",
+        "Site": "K5424010",
+        "Name_station": "La Sologne \u00e0 Ainay-le-Ch\u00e2teau - Ancienne",
+        "Surface_bv (km\u00b2)": 88.9,
+        "Altitude (m)": 188.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.6858990670827034,
+                46.70883967721925
+            ]
+        },
+        "en_service": false,
+        "Start Year": "1998",
+        "End Year": "2012",
+        "# of data points": 236,
+        "# of positive points": 0,
+        "average of data points": -0.24593220338983052,
+        "# of singular years": 12,
+        "File_location": "Correction_data_DB/K542401001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K508301001",
+        "Site": "K5083010",
+        "Name_station": "La Tartasse \u00e0 la Petite-Marche - Saint-Pardoux -Ancienne",
+        "Surface_bv (km\u00b2)": 130.0,
+        "Altitude (m)": 340.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.5819617123875394,
+                46.1753052975916
+            ]
+        },
+        "en_service": false,
+        "Start Year": "2011",
+        "End Year": "2012",
+        "# of data points": 20,
+        "# of positive points": 0,
+        "average of data points": -0.11699999999999999,
+        "# of singular years": 2,
+        "File_location": "Correction_data_DB/K508301001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K602242001",
+        "Site": "K6022420",
+        "Name_station": "L'Arnon \u00e0 Loye-sur-Arnon",
+        "Surface_bv (km\u00b2)": 268.0,
+        "Altitude (m)": 204.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.3762060790131274,
+                46.652854382322396
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2016",
+        "End Year": "2025",
+        "# of data points": 21,
+        "# of positive points": 0,
+        "average of data points": -0.27095238095238094,
+        "# of singular years": 6,
+        "File_location": "Correction_data_DB/K602242001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K485301001",
+        "Site": "K4853010",
+        "Name_station": "La Cisse \u00e0 Chouzy-sur-Cisse - Le Vau - Ancienne",
+        "Surface_bv (km\u00b2)": 535.0,
+        "Altitude (m)": 69.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.2123168986151074,
+                47.505915140933936
+            ]
+        },
+        "en_service": false,
+        "Start Year": "2009",
+        "End Year": "2012",
+        "# of data points": 47,
+        "# of positive points": 0,
+        "average of data points": -0.2582978723404255,
+        "# of singular years": 4,
+        "File_location": "Correction_data_DB/K485301001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K141401001",
+        "Site": "K1414010",
+        "Name_station": "La Vouzance \u00e0 Saint-L\u00e9ger-sur-Vouzance",
+        "Surface_bv (km\u00b2)": 131.0,
+        "Altitude (m)": 244.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.9403070136856937,
+                46.41546500832488
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2015",
+        "End Year": "2015",
+        "# of data points": 4,
+        "# of positive points": 0,
+        "average of data points": -0.055,
+        "# of singular years": 1,
+        "File_location": "Correction_data_DB/K141401001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K531301001",
+        "Site": "K5313010",
+        "Name_station": "L'Aumance \u00e0 Cosne-d'Allier - Ancienne",
+        "Surface_bv (km\u00b2)": 158.0,
+        "Altitude (m)": 217.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.844419946672814,
+                46.478922644577914
+            ]
+        },
+        "en_service": false,
+        "Start Year": "2007",
+        "End Year": "2012",
+        "# of data points": 102,
+        "# of positive points": 0,
+        "average of data points": -0.33284313725490194,
+        "# of singular years": 6,
+        "File_location": "Correction_data_DB/K531301001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K570232001",
+        "Site": "K5702320",
+        "Name_station": "L'Y\u00e8vre \u00e0 Saint-Doulchard - Moulin Batard d\u00e9viation",
+        "Surface_bv (km\u00b2)": 1775.0,
+        "Altitude (m)": 100.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.3525095518217416,
+                47.08561873600447
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2010",
+        "End Year": "2024",
+        "# of data points": 136,
+        "# of positive points": 0,
+        "average of data points": -0.4511029411764706,
+        "# of singular years": 13,
+        "File_location": "Correction_data_DB/K570232001.csv",
+        "Commentaire": "Marais de bourges."
+    },
+    {
+        "Station": "H406840001",
+        "Site": "H4068400",
+        "Name_station": "La Voise \u00e0 Ymeray",
+        "Surface_bv (km\u00b2)": 284.0,
+        "Altitude (m)": null,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.7100407326588203,
+                48.5091264025062
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2014",
+        "End Year": "2024",
+        "# of data points": 34,
+        "# of positive points": 0,
+        "average of data points": -0.22147058823529414,
+        "# of singular years": 6,
+        "File_location": "Correction_data_DB/H406840001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K645301001",
+        "Site": "K6453010",
+        "Name_station": "La R\u00e8re \u00e0 Theillay - La Loge",
+        "Surface_bv (km\u00b2)": 248.0,
+        "Altitude (m)": 125.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.0566464894307748,
+                47.34546313342823
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2011",
+        "End Year": "2021",
+        "# of data points": 45,
+        "# of positive points": 0,
+        "average of data points": -0.16044444444444445,
+        "# of singular years": 7,
+        "File_location": "Correction_data_DB/K645301001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K732261001",
+        "Site": "K7322610",
+        "Name_station": "L'Indre \u00e0 Perrusson",
+        "Surface_bv (km\u00b2)": 1880.0,
+        "Altitude (m)": 500.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.018383335762115,
+                47.10308206455346
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2014",
+        "End Year": "2024",
+        "# of data points": 90,
+        "# of positive points": 42,
+        "average of data points": 0.4225555555555555,
+        "# of singular years": 9,
+        "File_location": "Correction_data_DB/K732261001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K163301001",
+        "Site": "K1633010",
+        "Name_station": "La Somme \u00e0 Bourbon-Lancy - Moulin Baudran",
+        "Surface_bv (km\u00b2)": 217.0,
+        "Altitude (m)": 800.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.7790066051758027,
+                46.652292175609624
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2023",
+        "End Year": "2023",
+        "# of data points": 5,
+        "# of positive points": 2,
+        "average of data points": 0.027999999999999997,
+        "# of singular years": 1,
+        "File_location": "Correction_data_DB/K163301001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K714301001",
+        "Site": "K7143010",
+        "Name_station": "La Vauvre \u00e0 Montipouret - Moulin d'Angibault",
+        "Surface_bv (km\u00b2)": 199.0,
+        "Altitude (m)": 500.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.9040012262109522,
+                46.62597186141091
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2017",
+        "End Year": "2022",
+        "# of data points": 14,
+        "# of positive points": 0,
+        "average of data points": -0.08,
+        "# of singular years": 3,
+        "File_location": "Correction_data_DB/K714301001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K457221001",
+        "Site": "K4572210",
+        "Name_station": "Le Beuvron \u00e0 Montrieux-en-Sologne - Bois Olympe",
+        "Surface_bv (km\u00b2)": 510.0,
+        "Altitude (m)": null,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.7075563195351902,
+                47.529619621778245
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2022",
+        "End Year": "2023",
+        "# of data points": 6,
+        "# of positive points": 0,
+        "average of data points": -0.4766666666666666,
+        "# of singular years": 2,
+        "File_location": "Correction_data_DB/K457221001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K622091003",
+        "Site": "K6220910",
+        "Name_station": "Le Cher \u00e0 Selles-sur-Cher - Pont D 956A",
+        "Surface_bv (km\u00b2)": 9252.0,
+        "Altitude (m)": 75.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.5331331247942803,
+                47.27318683725391
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2015",
+        "End Year": "2023",
+        "# of data points": 80,
+        "# of positive points": 0,
+        "average of data points": -1.67225,
+        "# of singular years": 8,
+        "File_location": "Correction_data_DB/K622091003.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K648251001",
+        "Site": "K6482510",
+        "Name_station": "La Sauldre \u00e0 Pruniers-en-Sologne",
+        "Surface_bv (km\u00b2)": 2099.0,
+        "Altitude (m)": null,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.6715476666455982,
+                47.320917288665974
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2014",
+        "End Year": "2025",
+        "# of data points": 95,
+        "# of positive points": 1,
+        "average of data points": -0.7288421052631578,
+        "# of singular years": 10,
+        "File_location": "Correction_data_DB/K648251001.csv",
+        "Commentaire": "V\u00e9g\u00e9tations"
+    },
+    {
+        "Station": "K610243001",
+        "Site": "K6102430",
+        "Name_station": "L'Arnon \u00e0 Mareuil-sur-Arnon",
+        "Surface_bv (km\u00b2)": 886.0,
+        "Altitude (m)": null,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.129439529032715,
+                46.880357864800146
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2015",
+        "End Year": "2023",
+        "# of data points": 25,
+        "# of positive points": 0,
+        "average of data points": -0.1096,
+        "# of singular years": 5,
+        "File_location": "Correction_data_DB/K610243001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K722261011",
+        "Site": "K7222610",
+        "Name_station": "L'Indre \u00e0 Buzan\u00e7ais - Pont voie ferr\u00e9e",
+        "Surface_bv (km\u00b2)": 1243.0,
+        "Altitude (m)": 107.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.4152640847957079,
+                46.89880525151008
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2014",
+        "End Year": "2026",
+        "# of data points": 103,
+        "# of positive points": 0,
+        "average of data points": -0.7820388349514563,
+        "# of singular years": 13,
+        "File_location": "Correction_data_DB/K722261011.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K442701001",
+        "Site": "K4427010",
+        "Name_station": "Le Lien \u00e0 Tavers",
+        "Surface_bv (km\u00b2)": 41.0,
+        "Altitude (m)": null,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.6149747317744283,
+                47.75489327738384
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2013",
+        "End Year": "2025",
+        "# of data points": 116,
+        "# of positive points": 0,
+        "average of data points": -0.5524137931034483,
+        "# of singular years": 13,
+        "File_location": "Correction_data_DB/K442701001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "F456042001",
+        "Site": "F4560420",
+        "Name_station": "La Juine \u00e0 Saclas",
+        "Surface_bv (km\u00b2)": 257.0,
+        "Altitude (m)": null,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.1258122783674205,
+                48.361872313904286
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2017",
+        "End Year": "2026",
+        "# of data points": 93,
+        "# of positive points": 0,
+        "average of data points": -0.24387096774193548,
+        "# of singular years": 10,
+        "File_location": "Correction_data_DB/F456042001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K606301001",
+        "Site": "K6063010",
+        "Name_station": "La Sinaise \u00e0 Rezay",
+        "Surface_bv (km\u00b2)": 160.0,
+        "Altitude (m)": null,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.1805794155111604,
+                46.67270329223152
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2023",
+        "End Year": "2023",
+        "# of data points": 3,
+        "# of positive points": 0,
+        "average of data points": -0.06666666666666667,
+        "# of singular years": 1,
+        "File_location": "Correction_data_DB/K606301001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K437311001",
+        "Site": "K4373110",
+        "Name_station": "La Dhuy \u00e0 Sandillon - La ferme de Louy",
+        "Surface_bv (km\u00b2)": 139.0,
+        "Altitude (m)": null,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.018526029151154,
+                47.82118581482579
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2017",
+        "End Year": "2023",
+        "# of data points": 17,
+        "# of positive points": 0,
+        "average of data points": -0.5311764705882352,
+        "# of singular years": 3,
+        "File_location": "Correction_data_DB/K437311001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K637302002",
+        "Site": "K6373020",
+        "Name_station": "La Petite Sauldre \u00e0 M\u00e9n\u00e9tr\u00e9ol-sur-Sauldre",
+        "Surface_bv (km\u00b2)": 318.0,
+        "Altitude (m)": 146.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.304963592148604,
+                47.44665430864999
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2018",
+        "End Year": "2023",
+        "# of data points": 38,
+        "# of positive points": 0,
+        "average of data points": -0.215,
+        "# of singular years": 4,
+        "File_location": "Correction_data_DB/K637302002.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K484000102",
+        "Site": "K4840001",
+        "Name_station": "La Cisse \u00e0 Coulanges - Moulin Jouan",
+        "Surface_bv (km\u00b2)": 515.0,
+        "Altitude (m)": 72.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.235435695174825,
+                47.54656716613986
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2021",
+        "End Year": "2023",
+        "# of data points": 10,
+        "# of positive points": 0,
+        "average of data points": -0.062,
+        "# of singular years": 3,
+        "File_location": "Correction_data_DB/K484000102.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K419000201",
+        "Site": "K4190002",
+        "Name_station": "La Notreure \u00e0 Autry-le-Ch\u00e2tel",
+        "Surface_bv (km\u00b2)": 85.0,
+        "Altitude (m)": 157.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.5897194209914787,
+                47.60405808627311
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2019",
+        "End Year": "2023",
+        "# of data points": 14,
+        "# of positive points": 0,
+        "average of data points": -0.11285714285714286,
+        "# of singular years": 3,
+        "File_location": "Correction_data_DB/K419000201.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K752262011",
+        "Site": "K7522620",
+        "Name_station": "L'Indre \u00e0 Monts",
+        "Surface_bv (km\u00b2)": 3010.0,
+        "Altitude (m)": 44.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                0.6271925449705337,
+                47.278428013186655
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2023",
+        "End Year": "2023",
+        "# of data points": 3,
+        "# of positive points": 0,
+        "average of data points": -0.16333333333333333,
+        "# of singular years": 1,
+        "File_location": "Correction_data_DB/K752262011.csv",
+        "Commentaire": "Vannages multiples."
+    },
+    {
+        "Station": "K113000201",
+        "Site": "K1130002",
+        "Name_station": "L'Arconce \u00e0 Mornay - Villorbaine",
+        "Surface_bv (km\u00b2)": 113.0,
+        "Altitude (m)": null,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.350001669675093,
+                46.48643724286813
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2020",
+        "End Year": "2022",
+        "# of data points": 10,
+        "# of positive points": 0,
+        "average of data points": -0.10400000000000001,
+        "# of singular years": 3,
+        "File_location": "Correction_data_DB/K113000201.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K652000201",
+        "Site": "K6520002",
+        "Name_station": "Le Fouzon \u00e0 Dun-le-Po\u00eblier",
+        "Surface_bv (km\u00b2)": 257.0,
+        "Altitude (m)": 92.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.7553579659747987,
+                47.20452834979753
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2023",
+        "End Year": "2025",
+        "# of data points": 8,
+        "# of positive points": 0,
+        "average of data points": -0.1075,
+        "# of singular years": 2,
+        "File_location": "Correction_data_DB/K652000201.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K548092010",
+        "Site": "K5480920",
+        "Name_station": "Le Cher \u00e0 Saint-Florent-sur-Cher",
+        "Surface_bv (km\u00b2)": 4318.0,
+        "Altitude (m)": 118.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.244754300657214,
+                46.99209192139893
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2021",
+        "End Year": "2025",
+        "# of data points": 26,
+        "# of positive points": 0,
+        "average of data points": -0.3476923076923077,
+        "# of singular years": 5,
+        "File_location": "Correction_data_DB/K548092010.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K118001011",
+        "Site": "K1180010",
+        "Name_station": "La Loire \u00e0 Digoin - Pont D 979b",
+        "Surface_bv (km\u00b2)": 9315.0,
+        "Altitude (m)": 227.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.9830357134169465,
+                46.47816900440775
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2022",
+        "End Year": "2024",
+        "# of data points": 28,
+        "# of positive points": 0,
+        "average of data points": -1.515,
+        "# of singular years": 3,
+        "File_location": "Correction_data_DB/K118001011.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "M112481002",
+        "Site": "M1124810",
+        "Name_station": "L'Aigre \u00e0 Romilly-sur-Aigre",
+        "Surface_bv (km\u00b2)": 276.0,
+        "Altitude (m)": 100.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                1.3047883219367469,
+                47.985528284873546
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2022",
+        "End Year": "2026",
+        "# of data points": 32,
+        "# of positive points": 0,
+        "average of data points": -0.095625,
+        "# of singular years": 5,
+        "File_location": "Correction_data_DB/M112481002.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K153301001",
+        "Site": "K1533010",
+        "Name_station": "La Besbre \u00e0 Saint-Prix",
+        "Surface_bv (km\u00b2)": 360.0,
+        "Altitude (m)": 295.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.6457372392643412,
+                46.2267847343621
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2018",
+        "End Year": "2024",
+        "# of data points": 10,
+        "# of positive points": 0,
+        "average of data points": -0.10300000000000001,
+        "# of singular years": 2,
+        "File_location": "Correction_data_DB/K153301001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K555458001",
+        "Site": "K5554580",
+        "Name_station": "L'Ouatier \u00e0 Moulins-sur-Y\u00e8vre - Maubranche",
+        "Surface_bv (km\u00b2)": 160.0,
+        "Altitude (m)": 142.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.5169741324671286,
+                47.08715216607235
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2024",
+        "End Year": "2024",
+        "# of data points": 5,
+        "# of positive points": 0,
+        "average of data points": -0.094,
+        "# of singular years": 1,
+        "File_location": "Correction_data_DB/K555458001.csv",
+        "Commentaire": "Encombrement sur seuil possible en \u00e9tiage."
+    },
+    {
+        "Station": "K428000301",
+        "Site": "K4280003",
+        "Name_station": "La Bonn\u00e9e \u00e0 Saint-Martin-d'Abbat",
+        "Surface_bv (km\u00b2)": null,
+        "Altitude (m)": null,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.257009820803468,
+                47.84991526243673
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2023",
+        "End Year": "2050",
+        "# of data points": 9,
+        "# of positive points": 0,
+        "average of data points": -1.3255555555555554,
+        "# of singular years": 3,
+        "File_location": "Correction_data_DB/K428000301.csv",
+        "Commentaire": "Site dans le remous de la Loire en crue."
+    },
+    {
+        "Station": "K632251101",
+        "Site": "K6322511",
+        "Name_station": "La Sauldre \u00e0 Concressault",
+        "Surface_bv (km\u00b2)": null,
+        "Altitude (m)": null,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.580935844010727,
+                47.49107241108645
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2024",
+        "End Year": "2026",
+        "# of data points": 11,
+        "# of positive points": 0,
+        "average of data points": -0.40909090909090906,
+        "# of singular years": 3,
+        "File_location": "Correction_data_DB/K632251101.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K106301002",
+        "Site": "K1063010",
+        "Name_station": "Le Sornin \u00e0 Pouilly-sous-Charlieu",
+        "Surface_bv (km\u00b2)": 498.0,
+        "Altitude (m)": 265.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.151570514281067,
+                46.150220244244586
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2016",
+        "End Year": "2019",
+        "# of data points": 11,
+        "# of positive points": 0,
+        "average of data points": -0.11090909090909092,
+        "# of singular years": 2,
+        "File_location": "Correction_data_DB/K106301002.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K108402001",
+        "Site": "K1084020",
+        "Name_station": "La Teyssonne \u00e0 la B\u00e9nisson-Dieu",
+        "Surface_bv (km\u00b2)": 154.0,
+        "Altitude (m)": null,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.0414347502313355,
+                46.15046372858934
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2019",
+        "End Year": "2023",
+        "# of data points": 18,
+        "# of positive points": 0,
+        "average of data points": -0.07222222222222223,
+        "# of singular years": 4,
+        "File_location": "Correction_data_DB/K108402001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K091001011",
+        "Site": "K0910010",
+        "Name_station": "La Loire \u00e0 Villerest - Pont de Villerest",
+        "Surface_bv (km\u00b2)": 6585.0,
+        "Altitude (m)": 275.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.041950367623174,
+                46.00155002766155
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2011",
+        "End Year": "2024",
+        "# of data points": 208,
+        "# of positive points": 4,
+        "average of data points": -0.8249038461538462,
+        "# of singular years": 14,
+        "File_location": "Correction_data_DB/K091001011.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K536322001",
+        "Site": "K5363220",
+        "Name_station": "L'Oeil \u00e0 Cosne-d'Allier",
+        "Surface_bv (km\u00b2)": 398.0,
+        "Altitude (m)": 217.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.8276720814432625,
+                46.47431530306987
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2009",
+        "End Year": "2025",
+        "# of data points": 88,
+        "# of positive points": 0,
+        "average of data points": -0.07022727272727272,
+        "# of singular years": 11,
+        "File_location": "Correction_data_DB/K536322001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K091001010",
+        "Site": "K0910010",
+        "Name_station": "La Loire \u00e0 Villerest - Aval",
+        "Surface_bv (km\u00b2)": 6585.0,
+        "Altitude (m)": 275.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.041950367623174,
+                46.00155002766155
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2011",
+        "End Year": "2024",
+        "# of data points": 173,
+        "# of positive points": 4,
+        "average of data points": -0.41127167630057804,
+        "# of singular years": 14,
+        "File_location": "Correction_data_DB/K091001010.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K345081001",
+        "Site": "K3450810",
+        "Name_station": "L'Allier \u00e0 Moulins",
+        "Surface_bv (km\u00b2)": 12980.0,
+        "Altitude (m)": 210.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.325811556161394,
+                46.56116662237088
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2018",
+        "End Year": "2024",
+        "# of data points": 10,
+        "# of positive points": 0,
+        "average of data points": -0.16,
+        "# of singular years": 2,
+        "File_location": "Correction_data_DB/K345081001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K360301002",
+        "Site": "K3603010",
+        "Name_station": "La Bieudre \u00e0 Pouzy-M\u00e9sangy - RD 234 - Nouvelle \u00e9chelle",
+        "Surface_bv (km\u00b2)": 143.0,
+        "Altitude (m)": 201.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.004882292389751,
+                46.707054293061525
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2023",
+        "End Year": "2023",
+        "# of data points": 4,
+        "# of positive points": 0,
+        "average of data points": -0.2,
+        "# of singular years": 1,
+        "File_location": "Correction_data_DB/K360301002.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K269821001",
+        "Site": "K2698210",
+        "Name_station": "L'Auzon \u00e0 la Roche-Blanche",
+        "Surface_bv (km\u00b2)": 45.0,
+        "Altitude (m)": 415.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.1302283739377716,
+                45.69835175628864
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2024",
+        "End Year": "2025",
+        "# of data points": 29,
+        "# of positive points": 0,
+        "average of data points": -0.20344827586206896,
+        "# of singular years": 2,
+        "File_location": "Correction_data_DB/K269821001.csv",
+        "Commentaire": "Bief en amont (fonctionnement temporaire)"
+    },
+    {
+        "Station": "K306031001",
+        "Site": "K3060310",
+        "Name_station": "Le Sichon \u00e0 Cusset [Moulin Vidot]",
+        "Surface_bv (km\u00b2)": 159.0,
+        "Altitude (m)": 285.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.4748369762870537,
+                46.11946182490087
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2023",
+        "End Year": "2023",
+        "# of data points": 5,
+        "# of positive points": 0,
+        "average of data points": -0.282,
+        "# of singular years": 1,
+        "File_location": "Correction_data_DB/K306031001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K299401001",
+        "Site": "K2994010",
+        "Name_station": "[La Credogne] \u00e0 Puy-Guillaume",
+        "Surface_bv (km\u00b2)": 78.8,
+        "Altitude (m)": 275.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.4735482874367087,
+                45.96408099612256
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2023",
+        "End Year": "2023",
+        "# of data points": 6,
+        "# of positive points": 4,
+        "average of data points": 0.19666666666666668,
+        "# of singular years": 1,
+        "File_location": "Correction_data_DB/K299401001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K276311001",
+        "Site": "K2763110",
+        "Name_station": "Le B\u00e9dat \u00e0 C\u00e9bazat [La Maison Rouge]",
+        "Surface_bv (km\u00b2)": 40.5,
+        "Altitude (m)": 343.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.1117984767131914,
+                45.82453010093376
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2013",
+        "End Year": "2018",
+        "# of data points": 28,
+        "# of positive points": 0,
+        "average of data points": -0.55,
+        "# of singular years": 6,
+        "File_location": "Correction_data_DB/K276311001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K277312001",
+        "Site": "K2773120",
+        "Name_station": "Le B\u00e9dat \u00e0 Saint-Laure",
+        "Surface_bv (km\u00b2)": 391.0,
+        "Altitude (m)": 301.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.2924803314462374,
+                45.89999264445743
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2021",
+        "End Year": "2024",
+        "# of data points": 23,
+        "# of positive points": 0,
+        "average of data points": -0.16782608695652176,
+        "# of singular years": 3,
+        "File_location": "Correction_data_DB/K277312001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K283401001",
+        "Site": "K2834010",
+        "Name_station": "La Dolore \u00e0 Saint-Bonnet-le-Chastel [Moulin Neuf]",
+        "Surface_bv (km\u00b2)": 70.0,
+        "Altitude (m)": 800.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.630627927814981,
+                45.44637524777595
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2021",
+        "End Year": "2024",
+        "# of data points": 8,
+        "# of positive points": 0,
+        "average of data points": -0.075,
+        "# of singular years": 2,
+        "File_location": "Correction_data_DB/K283401001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K285191001",
+        "Site": "K2851910",
+        "Name_station": "La Dore \u00e0 Ambert",
+        "Surface_bv (km\u00b2)": 494.0,
+        "Altitude (m)": 520.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.7300332154159697,
+                45.54384147265757
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2025",
+        "End Year": "2025",
+        "# of data points": 4,
+        "# of positive points": 0,
+        "average of data points": -0.1325,
+        "# of singular years": 1,
+        "File_location": "Correction_data_DB/K285191001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K330201001",
+        "Site": "K3302010",
+        "Name_station": "La Sioule \u00e0 Ch\u00e2teauneuf-les-Bains",
+        "Surface_bv (km\u00b2)": 1415.0,
+        "Altitude (m)": 380.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.901263157232428,
+                46.02968719297877
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2012",
+        "End Year": "2022",
+        "# of data points": 53,
+        "# of positive points": 0,
+        "average of data points": -0.1428301886792453,
+        "# of singular years": 11,
+        "File_location": "Correction_data_DB/K330201001.csv",
+        "Commentaire": "Complexe hydro\u00e9l\u00e9ctrique de Fades-Besserve en amont"
+    },
+    {
+        "Station": "K297031001",
+        "Site": "K2970310",
+        "Name_station": "La Durolle \u00e0 Celles-sur-Durolle [Pont de Chazeau]",
+        "Surface_bv (km\u00b2)": 116.5,
+        "Altitude (m)": 568.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.6320544680994375,
+                45.86717118832827
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2024",
+        "End Year": "2025",
+        "# of data points": 12,
+        "# of positive points": 0,
+        "average of data points": -0.3475,
+        "# of singular years": 2,
+        "File_location": "Correction_data_DB/K297031001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K338201003",
+        "Site": "K3382010",
+        "Name_station": "La Sioule \u00e0 Saint-Pour\u00e7ain-sur-Sioule - Auberge des Aubrelles - Ferm\u00e9e",
+        "Surface_bv (km\u00b2)": 2458.0,
+        "Altitude (m)": 238.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.2965434138580956,
+                46.30924566955559
+            ]
+        },
+        "en_service": false,
+        "Start Year": "2024",
+        "End Year": "2024",
+        "# of data points": 4,
+        "# of positive points": 0,
+        "average of data points": 0.0,
+        "# of singular years": 1,
+        "File_location": "Correction_data_DB/K338201003.csv",
+        "Commentaire": "Existence d'une microcentrale en amont et d'un bief"
+    },
+    {
+        "Station": "K509090001",
+        "Site": "K5090900",
+        "Name_station": "Le Cher \u00e0 Chambonchard - La Caborne",
+        "Surface_bv (km\u00b2)": 517.0,
+        "Altitude (m)": 319.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.548946661601027,
+                46.17680898338921
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2014",
+        "End Year": "2021",
+        "# of data points": 10,
+        "# of positive points": 0,
+        "average of data points": -0.313,
+        "# of singular years": 3,
+        "File_location": "Correction_data_DB/K509090001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K513301001",
+        "Site": "K5133010",
+        "Name_station": "La Tardes \u00e0 Champagnat",
+        "Surface_bv (km\u00b2)": 202.0,
+        "Altitude (m)": 500.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.3235062296855378,
+                46.02018866265528
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2015",
+        "End Year": "2021",
+        "# of data points": 11,
+        "# of positive points": 0,
+        "average of data points": -0.2927272727272727,
+        "# of singular years": 4,
+        "File_location": "Correction_data_DB/K513301001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K514311001",
+        "Site": "K5143110",
+        "Name_station": "La Voueize \u00e0 Gouzon",
+        "Surface_bv (km\u00b2)": 144.0,
+        "Altitude (m)": 369.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.2601981858126945,
+                46.1966568150385
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2011",
+        "End Year": "2020",
+        "# of data points": 79,
+        "# of positive points": 0,
+        "average of data points": -0.22,
+        "# of singular years": 9,
+        "File_location": "Correction_data_DB/K514311001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K518302001",
+        "Site": "K5183020",
+        "Name_station": "La Tardes \u00e0 Chambon-sur-Voueize - Camping",
+        "Surface_bv (km\u00b2)": 850.0,
+        "Altitude (m)": 324.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.4453508536337067,
+                46.184068029339265
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2018",
+        "End Year": "2018",
+        "# of data points": 3,
+        "# of positive points": 0,
+        "average of data points": -0.11666666666666665,
+        "# of singular years": 1,
+        "File_location": "Correction_data_DB/K518302001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K522090003",
+        "Site": "K5220900",
+        "Name_station": "Le Cher \u00e0 Montlu\u00e7on",
+        "Surface_bv (km\u00b2)": 1716.0,
+        "Altitude (m)": 198.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.6024831355994955,
+                46.34499516881381
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2011",
+        "End Year": "2022",
+        "# of data points": 86,
+        "# of positive points": 1,
+        "average of data points": -0.19337209302325584,
+        "# of singular years": 11,
+        "File_location": "Correction_data_DB/K522090003.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K075321001",
+        "Site": "K0753210",
+        "Name_station": "Le Lignon \u00e0 Bo\u00ebn",
+        "Surface_bv (km\u00b2)": 371.0,
+        "Altitude (m)": 470.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.000190718243191,
+                45.74451824428441
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2018",
+        "End Year": "2023",
+        "# of data points": 64,
+        "# of positive points": 0,
+        "average of data points": -0.33640625,
+        "# of singular years": 6,
+        "File_location": "Correction_data_DB/K075321001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K207502001",
+        "Site": "K2075020",
+        "Name_station": "Le Donozau \u00e0 Naussac - Aval",
+        "Surface_bv (km\u00b2)": 55.2,
+        "Altitude (m)": 892.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.8281110777722627,
+                44.75017775381366
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2015",
+        "End Year": "2015",
+        "# of data points": 9,
+        "# of positive points": 0,
+        "average of data points": -0.35555555555555557,
+        "# of singular years": 1,
+        "File_location": "Correction_data_DB/K207502001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K209081001",
+        "Site": "K2090810",
+        "Name_station": "L'Allier \u00e0 Saint-Haon - Le Nouveau Monde",
+        "Surface_bv (km\u00b2)": 514.0,
+        "Altitude (m)": 740.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.743315588813608,
+                44.83876568049644
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2015",
+        "End Year": "2023",
+        "# of data points": 62,
+        "# of positive points": 0,
+        "average of data points": -0.16564516129032258,
+        "# of singular years": 9,
+        "File_location": "Correction_data_DB/K209081001.csv",
+        "Commentaire": "Influenc\u00e9 par le barrage de Naussac"
+    },
+    {
+        "Station": "K045401001",
+        "Site": "K0454010",
+        "Name_station": "La Duni\u00e8res \u00e0 Sainte-Sigol\u00e8ne - Vaubarlet",
+        "Surface_bv (km\u00b2)": 228.0,
+        "Altitude (m)": 584.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.214586130066986,
+                45.214752215572766
+            ]
+        },
+        "en_service": true,
+        "Start Year": "1999",
+        "End Year": "2025",
+        "# of data points": 273,
+        "# of positive points": 9,
+        "average of data points": -0.361025641025641,
+        "# of singular years": 17,
+        "File_location": "Correction_data_DB/K045401001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K025801001",
+        "Site": "K0258010",
+        "Name_station": "Le Dolaizon \u00e0 Vals-pr\u00e8s-le-Puy - Les Vigneaux",
+        "Surface_bv (km\u00b2)": 43.4,
+        "Altitude (m)": 650.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.8624782102156523,
+                45.02422931666036
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2006",
+        "End Year": "2024",
+        "# of data points": 89,
+        "# of positive points": 0,
+        "average of data points": -0.12483146067415729,
+        "# of singular years": 12,
+        "File_location": "Correction_data_DB/K025801001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K074401001",
+        "Site": "K0744010",
+        "Name_station": "L'Anzon \u00e0 D\u00e9bats-Rivi\u00e8re-d'Orpra - Cotes",
+        "Surface_bv (km\u00b2)": 181.0,
+        "Altitude (m)": 410.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.9524539677782844,
+                45.763663034948195
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2018",
+        "End Year": "2020",
+        "# of data points": 26,
+        "# of positive points": 0,
+        "average of data points": -0.15346153846153845,
+        "# of singular years": 2,
+        "File_location": "Correction_data_DB/K074401001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K033301001",
+        "Site": "K0333010",
+        "Name_station": "L'Arzon \u00e0 Vorey - Pont Eytravazet",
+        "Surface_bv (km\u00b2)": 156.0,
+        "Altitude (m)": 575.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.8795607633194966,
+                45.206456289610244
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2015",
+        "End Year": "2023",
+        "# of data points": 91,
+        "# of positive points": 0,
+        "average of data points": -0.24274725274725273,
+        "# of singular years": 8,
+        "File_location": "Correction_data_DB/K033301001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K027401002",
+        "Site": "K0274010",
+        "Name_station": "La Sum\u00e8ne \u00e0 Blavozy - Le Bourg",
+        "Surface_bv (km\u00b2)": 55.0,
+        "Altitude (m)": 658.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.9625418896109315,
+                45.05748227980477
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2018",
+        "End Year": "2025",
+        "# of data points": 57,
+        "# of positive points": 0,
+        "average of data points": -0.12157894736842105,
+        "# of singular years": 8,
+        "File_location": "Correction_data_DB/K027401002.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K062451002",
+        "Site": "K0624510",
+        "Name_station": "Le Bonson \u00e0 Saint-Marcellin-en-Forez - Le Bled - Pont",
+        "Surface_bv (km\u00b2)": 106.0,
+        "Altitude (m)": 380.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.186933383022446,
+                45.4703002476333
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2017",
+        "End Year": "2022",
+        "# of data points": 14,
+        "# of positive points": 0,
+        "average of data points": -0.12142857142857143,
+        "# of singular years": 4,
+        "File_location": "Correction_data_DB/K062451002.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K092401001",
+        "Site": "K0924010",
+        "Name_station": "Le Renaison \u00e0 Renaison - Ancienne",
+        "Surface_bv (km\u00b2)": 58.0,
+        "Altitude (m)": null,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.926536266341823,
+                46.04737318734333
+            ]
+        },
+        "en_service": false,
+        "Start Year": "2014",
+        "End Year": "2019",
+        "# of data points": 75,
+        "# of positive points": 0,
+        "average of data points": -0.6214666666666667,
+        "# of singular years": 6,
+        "File_location": "Correction_data_DB/K092401001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K054301001",
+        "Site": "K0543010",
+        "Name_station": "L'Ance \u00e0 Beauzac - B\u00e9rard",
+        "Surface_bv (km\u00b2)": 516.0,
+        "Altitude (m)": null,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.081133953473576,
+                45.27622370119144
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2017",
+        "End Year": "2025",
+        "# of data points": 95,
+        "# of positive points": 0,
+        "average of data points": -0.2617894736842105,
+        "# of singular years": 9,
+        "File_location": "Correction_data_DB/K054301001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K021401001",
+        "Site": "K0214010",
+        "Name_station": "La Gagne \u00e0 Saint-Germain-Laprade - Les Pandraux",
+        "Surface_bv (km\u00b2)": 107.0,
+        "Altitude (m)": 600.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.9803838447025184,
+                45.01279930876016
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2017",
+        "End Year": "2024",
+        "# of data points": 44,
+        "# of positive points": 0,
+        "average of data points": -0.115,
+        "# of singular years": 8,
+        "File_location": "Correction_data_DB/K021401001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K046301002",
+        "Site": "K0463010",
+        "Name_station": "Le Lignon \u00e0 Monistrol-sur-Loire [Pont de Lignon] - Station Limnim\u00e9trique",
+        "Surface_bv (km\u00b2)": 711.0,
+        "Altitude (m)": null,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.1502841001395545,
+                45.256802831460725
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2019",
+        "End Year": "2024",
+        "# of data points": 46,
+        "# of positive points": 0,
+        "average of data points": -2.708695652173913,
+        "# of singular years": 3,
+        "File_location": "Correction_data_DB/K046301002.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K287191001",
+        "Site": "K2871910",
+        "Name_station": "La Dore \u00e0 Saint-Gervais-sous-Meymont [Maison du Parc/Giroux-Dore]",
+        "Surface_bv (km\u00b2)": 800.0,
+        "Altitude (m)": 395.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.6101859668655565,
+                45.68947753099669
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2024",
+        "End Year": "2025",
+        "# of data points": 8,
+        "# of positive points": 0,
+        "average of data points": -0.17625,
+        "# of singular years": 2,
+        "File_location": "Correction_data_DB/K287191001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K322201001",
+        "Site": "K3222010",
+        "Name_station": "La Sioule \u00e0 Pontgibaud",
+        "Surface_bv (km\u00b2)": 353.0,
+        "Altitude (m)": 671.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.84904820627186,
+                45.83323734783031
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2008",
+        "End Year": "2025",
+        "# of data points": 91,
+        "# of positive points": 0,
+        "average of data points": -0.26956043956043957,
+        "# of singular years": 16,
+        "File_location": "Correction_data_DB/K322201001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K320601002",
+        "Site": "K3206010",
+        "Name_station": "Le Ceyssat \u00e0 Ceyssat - Pont",
+        "Surface_bv (km\u00b2)": null,
+        "Altitude (m)": 783.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.8938621307945764,
+                45.760969922969416
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2019",
+        "End Year": "2024",
+        "# of data points": 18,
+        "# of positive points": 10,
+        "average of data points": 0.24666666666666667,
+        "# of singular years": 3,
+        "File_location": "Correction_data_DB/K320601002.csv",
+        "Commentaire": "Depuis l'\u00e9t\u00e9 2006, le d\u00e9bit n'est plus le d\u00e9bit total (r\u00e9ouverture d'un bief)"
+    },
+    {
+        "Station": "K054301201",
+        "Site": "K0543012",
+        "Name_station": "L'Andrable \u00e0 Apinac - Les Terrasses",
+        "Surface_bv (km\u00b2)": 46.0,
+        "Altitude (m)": 881.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.016836353451173,
+                45.39147178756703
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2018",
+        "End Year": "2024",
+        "# of data points": 49,
+        "# of positive points": 0,
+        "average of data points": -0.10612244897959183,
+        "# of singular years": 7,
+        "File_location": "Correction_data_DB/K054301201.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K001872301",
+        "Site": "K0018723",
+        "Name_station": "La Loire \u00e0 Usclades-et-Rieutord - Rieutord - DREAL CVL",
+        "Surface_bv (km\u00b2)": 59.0,
+        "Altitude (m)": 1111.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.155658937791964,
+                44.76680996001129
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2024",
+        "End Year": "2025",
+        "# of data points": 6,
+        "# of positive points": 0,
+        "average of data points": -0.1,
+        "# of singular years": 2,
+        "File_location": "Correction_data_DB/K001872301.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K034000101",
+        "Site": "K0340001",
+        "Name_station": "La Loire \u00e0 Vorey - Le Chambon de Vorey",
+        "Surface_bv (km\u00b2)": 1812.0,
+        "Altitude (m)": 523.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.9334412045750997,
+                45.20327253041876
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2018",
+        "End Year": "2022",
+        "# of data points": 36,
+        "# of positive points": 0,
+        "average of data points": -1.0202777777777776,
+        "# of singular years": 5,
+        "File_location": "Correction_data_DB/K034000101.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K222303001",
+        "Site": "K2223030",
+        "Name_station": "L'Ance [du sud] \u00e0 Saint-Pr\u00e9jet-d'Allier - Ancienne",
+        "Surface_bv (km\u00b2)": 161.0,
+        "Altitude (m)": 800.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.6247729769253354,
+                44.91579278153568
+            ]
+        },
+        "en_service": false,
+        "Start Year": "2023",
+        "End Year": "2024",
+        "# of data points": 7,
+        "# of positive points": 0,
+        "average of data points": -0.15,
+        "# of singular years": 2,
+        "File_location": "Correction_data_DB/K222303001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K223402001",
+        "Site": "K2234020",
+        "Name_station": "La Virlange \u00e0 Saugues [Freycenet]",
+        "Surface_bv (km\u00b2)": 48.5,
+        "Altitude (m)": 1030.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.5731930583202187,
+                44.92661339367993
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2022",
+        "End Year": "2025",
+        "# of data points": 30,
+        "# of positive points": 0,
+        "average of data points": -0.17,
+        "# of singular years": 4,
+        "File_location": "Correction_data_DB/K223402001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K259301401",
+        "Site": "K2593014",
+        "Name_station": "[B\u00e9al] \u00e0 Lempdes-sur-Allagnon [Bief]",
+        "Surface_bv (km\u00b2)": null,
+        "Altitude (m)": null,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.2687351684866615,
+                45.386595949773636
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2023",
+        "End Year": "2024",
+        "# of data points": 18,
+        "# of positive points": 1,
+        "average of data points": -0.2688888888888889,
+        "# of singular years": 2,
+        "File_location": "Correction_data_DB/K259301401.csv",
+        "Commentaire": "Mesures au niveau du B\u00e9al ou Bief."
+    },
+    {
+        "Station": "K523401001",
+        "Site": "K5234010",
+        "Name_station": "La Magieure \u00e0 Vaux",
+        "Surface_bv (km\u00b2)": 194.0,
+        "Altitude (m)": 190.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                2.5763974843012156,
+                46.417443826632336
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2011",
+        "End Year": "2023",
+        "# of data points": 38,
+        "# of positive points": 0,
+        "average of data points": -0.16026315789473686,
+        "# of singular years": 7,
+        "File_location": "Correction_data_DB/K523401001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K201082001",
+        "Site": "K2010820",
+        "Name_station": "L'Allier \u00e0 Laveyrune - Rogleton",
+        "Surface_bv (km\u00b2)": 48.8,
+        "Altitude (m)": 993.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.897784286392759,
+                44.6130253777668
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2017",
+        "End Year": "2022",
+        "# of data points": 28,
+        "# of positive points": 0,
+        "average of data points": -0.11678571428571428,
+        "# of singular years": 4,
+        "File_location": "Correction_data_DB/K201082001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K056752001",
+        "Site": "K0567520",
+        "Name_station": "La Sem\u00e8ne \u00e0 Saint-Didier-en-Velay - Le Crouzet",
+        "Surface_bv (km\u00b2)": 134.0,
+        "Altitude (m)": 650.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.249602144078293,
+                45.31451554723108
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2013",
+        "End Year": "2018",
+        "# of data points": 20,
+        "# of positive points": 0,
+        "average of data points": -0.2725,
+        "# of singular years": 3,
+        "File_location": "Correction_data_DB/K056752001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K064311001",
+        "Site": "K0643110",
+        "Name_station": "La Mare \u00e0 Saint-Marcellin-en-Forez - V\u00e9rines",
+        "Surface_bv (km\u00b2)": 95.2,
+        "Altitude (m)": 540.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.130570307838899,
+                45.490037090756815
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2022",
+        "End Year": "2023",
+        "# of data points": 4,
+        "# of positive points": 0,
+        "average of data points": -0.025,
+        "# of singular years": 2,
+        "File_location": "Correction_data_DB/K064311001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K069001001",
+        "Site": "K0690010",
+        "Name_station": "La Loire \u00e0 Montrond-les-Bains",
+        "Surface_bv (km\u00b2)": 4832.0,
+        "Altitude (m)": 350.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.225359399115741,
+                45.643330184195285
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2016",
+        "End Year": "2023",
+        "# of data points": 49,
+        "# of positive points": 0,
+        "average of data points": -0.2614285714285714,
+        "# of singular years": 6,
+        "File_location": "Correction_data_DB/K069001001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K055001010",
+        "Site": "K0550010",
+        "Name_station": "La Loire \u00e0 Bas-en-Basset",
+        "Surface_bv (km\u00b2)": 3234.0,
+        "Altitude (m)": 450.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.117993226005161,
+                45.295231597734904
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2014",
+        "End Year": "2024",
+        "# of data points": 81,
+        "# of positive points": 0,
+        "average of data points": -0.2177777777777778,
+        "# of singular years": 10,
+        "File_location": "Correction_data_DB/K055001010.csv",
+        "Commentaire": "Influenc\u00e9 par la gestion du barrage de Lavalette."
+    },
+    {
+        "Station": "K040301001",
+        "Site": "K0403010",
+        "Name_station": "Le Lignon au Chambon-sur-Lignon",
+        "Surface_bv (km\u00b2)": 139.0,
+        "Altitude (m)": 930.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.300928201704142,
+                45.057763534819394
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2017",
+        "End Year": "2023",
+        "# of data points": 53,
+        "# of positive points": 0,
+        "average of data points": -0.30283018867924527,
+        "# of singular years": 5,
+        "File_location": "Correction_data_DB/K040301001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K011402001",
+        "Site": "K0114020",
+        "Name_station": "La Gazeille au Monastier-sur-Gazeille - La Besseyre Haute",
+        "Surface_bv (km\u00b2)": 51.0,
+        "Altitude (m)": 927.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.039683076029061,
+                44.92683604252355
+            ]
+        },
+        "en_service": false,
+        "Start Year": "2014",
+        "End Year": "2023",
+        "# of data points": 41,
+        "# of positive points": 0,
+        "average of data points": -0.14731707317073173,
+        "# of singular years": 4,
+        "File_location": "Correction_data_DB/K011402001.csv",
+        "Commentaire": "Site ferm\u00e9 d\u00e9but 2024 car il n'\u00e9tait pas assez repr\u00e9sentatif de la production globale du bassin de la Gazeille car situ\u00e9 en t\u00eate du bassin versant. De plus, ce site manquait de pr\u00e9cision \u00e0 l'\u00e9tiage et n'\u00e9tait pas assez fiable en crue en raison d'un \u00e9coulement tr\u00e8s violent.  Il est remplac\u00e9 par le site de La Gazeille \u00e0 Chadron ( K011 4030) ouvert en 2015."
+    },
+    {
+        "Station": "K010002010",
+        "Site": "K0100020",
+        "Name_station": "La Loire \u00e0 Goudet",
+        "Surface_bv (km\u00b2)": 432.0,
+        "Altitude (m)": 780.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.9218827533183727,
+                44.88904977609329
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2017",
+        "End Year": "2024",
+        "# of data points": 12,
+        "# of positive points": 1,
+        "average of data points": -0.39166666666666666,
+        "# of singular years": 4,
+        "File_location": "Correction_data_DB/K010002010.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K207081010",
+        "Site": "K2070810",
+        "Name_station": "L'Allier \u00e0 Langogne",
+        "Surface_bv (km\u00b2)": 324.0,
+        "Altitude (m)": 1000.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.8577858527203377,
+                44.734848256529155
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2016",
+        "End Year": "2022",
+        "# of data points": 27,
+        "# of positive points": 0,
+        "average of data points": -0.1574074074074074,
+        "# of singular years": 3,
+        "File_location": "Correction_data_DB/K207081010.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K217302001",
+        "Site": "K2173020",
+        "Name_station": "Le Chapeauroux \u00e0 Saint-Bonnet-de-Montauroux",
+        "Surface_bv (km\u00b2)": 387.0,
+        "Altitude (m)": 750.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.7121559812263616,
+                44.81782518958006
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2019",
+        "End Year": "2019",
+        "# of data points": 5,
+        "# of positive points": 0,
+        "average of data points": -0.06,
+        "# of singular years": 1,
+        "File_location": "Correction_data_DB/K217302001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K040302002",
+        "Site": "K0403020",
+        "Name_station": "Le Lignon aux Vastres - Pont Marie",
+        "Surface_bv (km\u00b2)": 41.0,
+        "Altitude (m)": 1078.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.24177262781552,
+                44.99076667945574
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2018",
+        "End Year": "2018",
+        "# of data points": 4,
+        "# of positive points": 0,
+        "average of data points": -0.35,
+        "# of singular years": 1,
+        "File_location": "Correction_data_DB/K040302002.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K045402001",
+        "Site": "K0454020",
+        "Name_station": "La Duni\u00e8res \u00e0 Duni\u00e8res",
+        "Surface_bv (km\u00b2)": 141.0,
+        "Altitude (m)": 738.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.332070082328079,
+                45.22007710280537
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2013",
+        "End Year": "2022",
+        "# of data points": 24,
+        "# of positive points": 1,
+        "average of data points": -0.3491666666666666,
+        "# of singular years": 4,
+        "File_location": "Correction_data_DB/K045402001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K051301001",
+        "Site": "K0513010",
+        "Name_station": "L'Ance \u00e0 Sauvessanges",
+        "Surface_bv (km\u00b2)": 189.0,
+        "Altitude (m)": 790.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.891373879968,
+                45.37985179405559
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2019",
+        "End Year": "2023",
+        "# of data points": 48,
+        "# of positive points": 5,
+        "average of data points": -0.19458333333333333,
+        "# of singular years": 4,
+        "File_location": "Correction_data_DB/K051301001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K035631001",
+        "Site": "K0356310",
+        "Name_station": "Le Ramel \u00e0 Beaux - Malataverne",
+        "Surface_bv (km\u00b2)": 43.1,
+        "Altitude (m)": 920.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                4.0753506280512966,
+                45.17014565199093
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2015",
+        "End Year": "2024",
+        "# of data points": 34,
+        "# of positive points": 0,
+        "average of data points": -0.0661764705882353,
+        "# of singular years": 5,
+        "File_location": "Correction_data_DB/K035631001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K025302002",
+        "Site": "K0253020",
+        "Name_station": "La Borne \u00e0 Aiguilhe",
+        "Surface_bv (km\u00b2)": 375.0,
+        "Altitude (m)": 650.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.864249114589405,
+                45.04930177541167
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2014",
+        "End Year": "2024",
+        "# of data points": 38,
+        "# of positive points": 0,
+        "average of data points": -0.07842105263157895,
+        "# of singular years": 10,
+        "File_location": "Correction_data_DB/K025302002.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K013401001",
+        "Site": "K0134010",
+        "Name_station": "La Laussonne \u00e0 Lantriac - Pont de Moulines",
+        "Surface_bv (km\u00b2)": 33.0,
+        "Altitude (m)": 800.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.975279370942413,
+                44.965336908208556
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2019",
+        "End Year": "2024",
+        "# of data points": 15,
+        "# of positive points": 0,
+        "average of data points": -0.086,
+        "# of singular years": 4,
+        "File_location": "Correction_data_DB/K013401001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K004551001",
+        "Site": "K0045510",
+        "Name_station": "La M\u00e9jeanne \u00e0 Saint-Arcons-de-Barges - Montbel",
+        "Surface_bv (km\u00b2)": 39.0,
+        "Altitude (m)": 800.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.9443422213774952,
+                44.825941117815326
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2023",
+        "End Year": "2024",
+        "# of data points": 8,
+        "# of positive points": 0,
+        "average of data points": -0.05,
+        "# of singular years": 2,
+        "File_location": "Correction_data_DB/K004551001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K011403001",
+        "Site": "K0114030",
+        "Name_station": "La Gazeille \u00e0 Chadron - Colempce Bas",
+        "Surface_bv (km\u00b2)": 100.0,
+        "Altitude (m)": null,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.9360530120548884,
+                44.95265377799902
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2019",
+        "End Year": "2024",
+        "# of data points": 30,
+        "# of positive points": 0,
+        "average of data points": -0.556,
+        "# of singular years": 3,
+        "File_location": "Correction_data_DB/K011403001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K225401001",
+        "Site": "K2254010",
+        "Name_station": "La Seuge \u00e0 Saugues",
+        "Surface_bv (km\u00b2)": 122.0,
+        "Altitude (m)": 930.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.550844519300421,
+                44.971125337469246
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2022",
+        "End Year": "2024",
+        "# of data points": 32,
+        "# of positive points": 0,
+        "average of data points": -0.3734375,
+        "# of singular years": 3,
+        "File_location": "Correction_data_DB/K225401001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K202000101",
+        "Site": "K2020001",
+        "Name_station": "Le Masm\u00e9jan \u00e0 Saint-\u00c9tienne-de-Lugdar\u00e8s [Hu\u00e9dour]",
+        "Surface_bv (km\u00b2)": 34.0,
+        "Altitude (m)": 981.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.927520758144621,
+                44.64846877595769
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2022",
+        "End Year": "2024",
+        "# of data points": 33,
+        "# of positive points": 0,
+        "average of data points": -0.4115151515151515,
+        "# of singular years": 3,
+        "File_location": "Correction_data_DB/K202000101.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K206401002",
+        "Site": "K2064010",
+        "Name_station": "Le Langouyrou \u00e0 Langogne - Passerelle bois",
+        "Surface_bv (km\u00b2)": 66.0,
+        "Altitude (m)": 900.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.8576463230623523,
+                44.73031504788617
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2024",
+        "End Year": "2024",
+        "# of data points": 8,
+        "# of positive points": 0,
+        "average of data points": -3.48125,
+        "# of singular years": 1,
+        "File_location": "Correction_data_DB/K206401002.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K213401001",
+        "Site": "K2134010",
+        "Name_station": "La Clamouse \u00e0 Chastanier",
+        "Surface_bv (km\u00b2)": 50.5,
+        "Altitude (m)": 1071.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.7553990617848965,
+                44.72430699891941
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2022",
+        "End Year": "2025",
+        "# of data points": 17,
+        "# of positive points": 0,
+        "average of data points": -0.08411764705882353,
+        "# of singular years": 4,
+        "File_location": "Correction_data_DB/K213401001.csv",
+        "Commentaire": null
+    },
+    {
+        "Station": "K230081001",
+        "Site": "K2300810",
+        "Name_station": "L'Allier \u00e0 Langeac",
+        "Surface_bv (km\u00b2)": 1781.0,
+        "Altitude (m)": 495.0,
+        "Geometry": {
+            "type": "Point",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "coordinates": [
+                3.490548058917991,
+                45.11686324604452
+            ]
+        },
+        "en_service": true,
+        "Start Year": "2014",
+        "End Year": "2025",
+        "# of data points": 69,
+        "# of positive points": 0,
+        "average of data points": -0.20681159420289855,
+        "# of singular years": 11,
+        "File_location": "Correction_data_DB/K230081001.csv",
+        "Commentaire": null
+    }
+]
