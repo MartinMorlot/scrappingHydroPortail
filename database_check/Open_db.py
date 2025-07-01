@@ -28,7 +28,7 @@ def mdb_to_pandas(database_path):
             contents = subprocess.Popen(["mdb-export", database_path, table],
                                         stdout=subprocess.PIPE).communicate()[0]
             temp_io = StringIO(contents.decode())
-            print(table, temp_io)
+            #print(table, temp_io)
             out_tables[table] = pd.read_csv(temp_io)
     return out_tables
 
@@ -38,7 +38,7 @@ mdb_file_path = 'DHMD.MDB'
 
 all_combined = mdb_to_pandas(mdb_file_path)
 
-print(all_combined.keys())
+# print(all_combined.keys())
 
 stations = all_combined["station"]
 corrections = all_combined["courbecorrection"]
@@ -60,7 +60,7 @@ for nosta in corrections.nosta.unique():
     if station.codehydro3 == "K622091001":
         station.codehydro3 = "K622091003"
     station_info = json_utility.get_info_station(station_data_clean, station.codehydro3)
-    print(station_info)
+    # print(station_info)
     site_info = json_utility.get_info_site(site_data_clean, station.codesitehydro3)
     correction_nosta["ladate"] = pd.to_datetime(correction_nosta["ladate"], format='%m/%d/%y %H:%M:%S')
 
@@ -70,11 +70,12 @@ for nosta in corrections.nosta.unique():
 
     df_to_write = df_to_write.sort_values(by="date")
     
-    print(df_to_write)
+    # print(df_to_write)
 
     df_to_write.to_csv(file_loc,sep=";",header=False, index=False)
 
     station_dict = {
+        "nosta": int(nosta),
         "Station": station.codehydro3,
         "Site": station.codesitehydro3,
         "Name_station": station_info["libelle_station"],
@@ -112,7 +113,7 @@ for data in station_data:
 
 pdData = pd.DataFrame(station_data)
 
-print(pdData.columns)
+# print(pdData.columns)
 
 geodata = gpd.GeoDataFrame(pdData, geometry="shapelyGeom", crs="EPSG:4326")
 
@@ -131,5 +132,13 @@ geodata["no_postive_points"] = (geodata["# of positive points"] / geodata["# of 
 
 geodata.to_file("geodata_station_with_correction_DB.gpkg", layer="geodata_station_with_correction_DB.gpkg", driver="GPKG")
 
+geodata_old = gpd.read_file("../geodata_station_with_correction_more.gpkg")
 
+filtered_geodata = geodata[~geodata['Station'].isin(geodata_old['Station'])]
 
+# Display the filtered DataFrame
+print(filtered_geodata)
+
+filtered_geodata.to_csv("missing_DB.csv")
+
+filtered_geodata.to_file("missing_DB.gpkg", layer="missing_DB.gpkg", driver="GPKG")

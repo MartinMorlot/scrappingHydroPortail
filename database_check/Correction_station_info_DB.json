@@ -1,5 +1,6 @@
 [
     {
+        "nosta": 14,
         "Station": "K177301001",
         "Site": "K1773010",
         "Name_station": "L'Aron \u00e0 Verneuil",
@@ -29,6 +30,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 30,
         "Station": "K571231001",
         "Site": "K5712310",
         "Name_station": "L'Y\u00e8vre \u00e0 Fo\u00ebcy",
@@ -58,6 +60,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 32,
         "Station": "K649251001",
         "Site": "K6492510",
         "Name_station": "La Sauldre \u00e0 Selles-sur-Cher - Saint-Andr\u00e9 - Ancienne",
@@ -87,6 +90,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 178,
         "Station": "K549090001",
         "Site": "K5490900",
         "Name_station": "Le Cher \u00e0 Vierzon",
@@ -116,6 +120,7 @@
         "Commentaire": "Barrage de Rochebut."
     },
     {
+        "nosta": 4,
         "Station": "K139181001",
         "Site": "K1391810",
         "Name_station": "L'Arroux \u00e0 Digoin - Le Verdier",
@@ -145,6 +150,7 @@
         "Commentaire": "Station influenc\u00e9e en hautes eaux par les crues de la Loire."
     },
     {
+        "nosta": 13,
         "Station": "K134181001",
         "Site": "K1341810",
         "Name_station": "L'Arroux \u00e0 Rigny-sur-Arroux",
@@ -174,6 +180,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 191,
         "Station": "K555230001",
         "Site": "K5552300",
         "Name_station": "L'Y\u00e8vre \u00e0 Savigny-en-Septaine",
@@ -203,6 +210,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 192,
         "Station": "K633252001",
         "Site": "K6332520",
         "Name_station": "La Sauldre \u00e0 Brinon-sur-Sauldre",
@@ -232,6 +240,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 219,
         "Station": "H320331001",
         "Site": "H3203310",
         "Name_station": "Le Puiseaux \u00e0 Saint-Hilaire-sur-Puiseaux",
@@ -261,6 +270,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 31,
         "Station": "K622091003",
         "Site": "K6220910",
         "Name_station": "Le Cher \u00e0 Selles-sur-Cher - Pont D 956A",
@@ -290,6 +300,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 33,
         "Station": "K650091001",
         "Site": "K6500910",
         "Name_station": "Le Cher \u00e0 Ch\u00e2tillon-sur-Cher",
@@ -319,6 +330,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 195,
         "Station": "K562301001",
         "Site": "K5623010",
         "Name_station": "L'Auron au Pondy",
@@ -348,6 +360,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 273,
         "Station": "K659302001",
         "Site": "K6593020",
         "Name_station": "Le Fouzon \u00e0 Meusnes - Le Gu\u00e9 au Loup",
@@ -377,6 +390,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 179,
         "Station": "K118001010",
         "Site": "K1180010",
         "Name_station": "La Loire \u00e0 Digoin - Pont canal",
@@ -406,6 +420,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 41,
         "Station": "K731261001",
         "Site": "K7312610",
         "Name_station": "L'Indre \u00e0 Saint-Cyran-du-Jambot",
@@ -435,6 +450,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 48,
         "Station": "K447001001",
         "Site": "K4470010",
         "Name_station": "La Loire \u00e0 Blois",
@@ -464,6 +480,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 75,
         "Station": "K671091001",
         "Site": "K6710910",
         "Name_station": "Le Cher \u00e0 Tours - Pont Saint-Sauveur",
@@ -493,6 +510,7 @@
         "Commentaire": "Probl\u00e8mes de vannages et de v\u00e9g\u00e9tation."
     },
     {
+        "nosta": 7,
         "Station": "K479301001",
         "Site": "K4793010",
         "Name_station": "Le Cosson \u00e0 Chailles",
@@ -522,6 +540,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 40,
         "Station": "K720261001",
         "Site": "K7202610",
         "Name_station": "L'Indre \u00e0 Ardentes",
@@ -551,6 +570,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 190,
         "Station": "K640252001",
         "Site": "K6402520",
         "Name_station": "La Sauldre \u00e0 Salbris - Valaudran",
@@ -580,6 +600,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 234,
         "Station": "K565301001",
         "Site": "K5653010",
         "Name_station": "L'Auron \u00e0 Bourges - L'Ormediot",
@@ -609,6 +630,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 247,
         "Station": "K407311001",
         "Site": "K4073110",
         "Name_station": "La Vauvise \u00e0 Saint-Bouize - La Grange",
@@ -638,6 +660,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 259,
         "Station": "M107302001",
         "Site": "M1073020",
         "Name_station": "La Conie \u00e0 Conie-Molitard",
@@ -667,6 +690,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 24,
         "Station": "K538302001",
         "Site": "K5383020",
         "Name_station": "L'Aumance \u00e0 H\u00e9risson",
@@ -696,6 +720,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 39,
         "Station": "K702262001",
         "Site": "K7022620",
         "Name_station": "L'Indre \u00e0 Montgivray",
@@ -725,6 +750,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 267,
         "Station": "K485300001",
         "Site": "K4853000",
         "Name_station": "La Cisse \u00e0 Nazelles-N\u00e9gron",
@@ -754,6 +780,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 49,
         "Station": "K480001001",
         "Site": "K4800010",
         "Name_station": "La Loire \u00e0 Onzain - Pont de Chaumont",
@@ -783,6 +810,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 1,
         "Station": "K117321001",
         "Site": "K1173210",
         "Name_station": "L'Arconce \u00e0 Montceaux-l'\u00c9toile",
@@ -812,6 +840,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 15,
         "Station": "K365081001",
         "Site": "K3650810",
         "Name_station": "L'Allier \u00e0 Cuffy - Pont du Gu\u00e9tin",
@@ -841,6 +870,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 213,
         "Station": "K543302001",
         "Site": "K5433020",
         "Name_station": "La Marmande \u00e0 Saint-Pierre-les-\u00c9tieux - Br\u00e9beurre",
@@ -870,6 +900,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 29,
         "Station": "K619242001",
         "Site": "K6192420",
         "Name_station": "L'Arnon \u00e0 M\u00e9reau - Alnay",
@@ -899,6 +930,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 44,
         "Station": "K193001010",
         "Site": "K1930010",
         "Name_station": "La Loire \u00e0 Nevers",
@@ -928,6 +960,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 77,
         "Station": "K683002001",
         "Site": "K6830020",
         "Name_station": "La Loire \u00e0 Langeais",
@@ -957,6 +990,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 46,
         "Station": "K435001020",
         "Site": "K4350010",
         "Name_station": "La Loire \u00e0 Orl\u00e9ans - Quai du Roi",
@@ -986,6 +1020,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 231,
         "Station": "K444301001",
         "Site": "K4443010",
         "Name_station": "L'Ardoux \u00e0 Lailly-en-Val",
@@ -1015,6 +1050,7 @@
         "Commentaire": "Barrage de castor, donn\u00e9es incertaines pour le moment"
     },
     {
+        "nosta": 285,
         "Station": "K533311001",
         "Site": "K5333110",
         "Name_station": "Le Bandais \u00e0 Vieure",
@@ -1044,6 +1080,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 288,
         "Station": "K534321001",
         "Site": "K5343210",
         "Name_station": "L'Oeil \u00e0 Malicorne - Beaufrancon",
@@ -1073,6 +1110,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 21,
         "Station": "K132181010",
         "Site": "K1321810",
         "Name_station": "L'Arroux \u00e0 \u00c9tang-sur-Arroux - Pont du Tacot",
@@ -1102,6 +1140,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 26,
         "Station": "K540092001",
         "Site": "K5400920",
         "Name_station": "Le Cher \u00e0 Saint-Amand-Montrond",
@@ -1131,6 +1170,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 220,
         "Station": "H332201001",
         "Site": "H3322010",
         "Name_station": "La Bezonde \u00e0 Pannes",
@@ -1160,6 +1200,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 180,
         "Station": "K144001010",
         "Site": "K1440010",
         "Name_station": "La Loire \u00e0 Gilly-sur-Loire",
@@ -1189,6 +1230,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 194,
         "Station": "K557410001",
         "Site": "K5574100",
         "Name_station": "Le Moulon \u00e0 Bourges - Asni\u00e8res",
@@ -1218,6 +1260,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 230,
         "Station": "K438311001",
         "Site": "K4383110",
         "Name_station": "La Dhuy \u00e0 Saint-Cyr-en-Val - Gobson - Ancienne",
@@ -1247,6 +1290,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 233,
         "Station": "K554301001",
         "Site": "K5543010",
         "Name_station": "L'Airin \u00e0 Crosses - Ancienne",
@@ -1276,6 +1320,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 235,
         "Station": "K633401001",
         "Site": "K6334010",
         "Name_station": "La N\u00e8re \u00e0 Aubigny-sur-N\u00e8re",
@@ -1305,6 +1350,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 242,
         "Station": "K637302001",
         "Site": "K6373020",
         "Name_station": "La Petite Sauldre \u00e0 M\u00e9n\u00e9tr\u00e9ol-sur-Sauldre - Ancienne",
@@ -1334,6 +1380,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 244,
         "Station": "K401301001",
         "Site": "K4013010",
         "Name_station": "L'Aubois \u00e0 Grossouvre - Tr\u00e9zy",
@@ -1363,6 +1410,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 251,
         "Station": "K721751001",
         "Site": "K7217510",
         "Name_station": "La Tr\u00e9gonce \u00e0 Vineuil - Pont de Pierre",
@@ -1392,6 +1440,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 253,
         "Station": "K751401001",
         "Site": "K7514010",
         "Name_station": "L'Echandon \u00e0 Saint-Branchs",
@@ -1421,6 +1470,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 262,
         "Station": "K441409001",
         "Site": "K4414090",
         "Name_station": "La Mauve de D\u00e9tourbe \u00e0 Meung-sur-Loire",
@@ -1450,6 +1500,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 431,
         "Station": "K544000201",
         "Site": "K5440002",
         "Name_station": "La Loubi\u00e8re \u00e0 Faverdines",
@@ -1479,6 +1530,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 269,
         "Station": "K720751001",
         "Site": "K7207510",
         "Name_station": "La Ringoire \u00e0 D\u00e9ols",
@@ -1508,6 +1560,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 270,
         "Station": "M112481001",
         "Site": "M1124810",
         "Name_station": "L'Aigre \u00e0 Romilly-sur-Aigre - ANCIENNE",
@@ -1537,6 +1590,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 278,
         "Station": "K743303001",
         "Site": "K7433030",
         "Name_station": "L'Indrois \u00e0 Genill\u00e9",
@@ -1566,6 +1620,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 281,
         "Station": "H402203001",
         "Site": "H4022030",
         "Name_station": "L'Essonne \u00e0 Boulancourt",
@@ -1595,6 +1650,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 282,
         "Station": "H403301001",
         "Site": "H4033010",
         "Name_station": "La Juine \u00e0 M\u00e9r\u00e9ville [Ancienne] - Ancienne",
@@ -1624,6 +1680,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 433,
         "Station": "K658000101",
         "Site": "K6580001",
         "Name_station": "Le Nahon \u00e0 Poulaines - Barzelle",
@@ -1653,6 +1710,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 283,
         "Station": "K542401001",
         "Site": "K5424010",
         "Name_station": "La Sologne \u00e0 Ainay-le-Ch\u00e2teau - Ancienne",
@@ -1682,6 +1740,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 289,
         "Station": "K508301001",
         "Site": "K5083010",
         "Name_station": "La Tartasse \u00e0 la Petite-Marche - Saint-Pardoux -Ancienne",
@@ -1711,6 +1770,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 298,
         "Station": "K602242001",
         "Site": "K6022420",
         "Name_station": "L'Arnon \u00e0 Loye-sur-Arnon",
@@ -1740,6 +1800,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 302,
         "Station": "K485301001",
         "Site": "K4853010",
         "Name_station": "La Cisse \u00e0 Chouzy-sur-Cisse - Le Vau - Ancienne",
@@ -1769,6 +1830,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 310,
         "Station": "K141401001",
         "Site": "K1414010",
         "Name_station": "La Vouzance \u00e0 Saint-L\u00e9ger-sur-Vouzance",
@@ -1798,6 +1860,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 322,
         "Station": "K531301001",
         "Site": "K5313010",
         "Name_station": "L'Aumance \u00e0 Cosne-d'Allier - Ancienne",
@@ -1827,6 +1890,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 324,
         "Station": "K570232001",
         "Site": "K5702320",
         "Name_station": "L'Y\u00e8vre \u00e0 Saint-Doulchard - Moulin Batard d\u00e9viation",
@@ -1856,6 +1920,7 @@
         "Commentaire": "Marais de bourges."
     },
     {
+        "nosta": 329,
         "Station": "H406840001",
         "Site": "H4068400",
         "Name_station": "La Voise \u00e0 Ymeray",
@@ -1885,6 +1950,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 334,
         "Station": "K645301001",
         "Site": "K6453010",
         "Name_station": "La R\u00e8re \u00e0 Theillay - La Loge",
@@ -1914,6 +1980,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 336,
         "Station": "K732261001",
         "Site": "K7322610",
         "Name_station": "L'Indre \u00e0 Perrusson",
@@ -1943,6 +2010,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 345,
         "Station": "K163301001",
         "Site": "K1633010",
         "Name_station": "La Somme \u00e0 Bourbon-Lancy - Moulin Baudran",
@@ -1972,6 +2040,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 347,
         "Station": "K714301001",
         "Site": "K7143010",
         "Name_station": "La Vauvre \u00e0 Montipouret - Moulin d'Angibault",
@@ -2001,6 +2070,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 350,
         "Station": "K457221001",
         "Site": "K4572210",
         "Name_station": "Le Beuvron \u00e0 Montrieux-en-Sologne - Bois Olympe",
@@ -2030,6 +2100,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 365,
         "Station": "K622091003",
         "Site": "K6220910",
         "Name_station": "Le Cher \u00e0 Selles-sur-Cher - Pont D 956A",
@@ -2059,6 +2130,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 366,
         "Station": "K648251001",
         "Site": "K6482510",
         "Name_station": "La Sauldre \u00e0 Pruniers-en-Sologne",
@@ -2088,6 +2160,7 @@
         "Commentaire": "V\u00e9g\u00e9tations"
     },
     {
+        "nosta": 367,
         "Station": "K610243001",
         "Site": "K6102430",
         "Name_station": "L'Arnon \u00e0 Mareuil-sur-Arnon",
@@ -2117,6 +2190,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 370,
         "Station": "K722261011",
         "Site": "K7222610",
         "Name_station": "L'Indre \u00e0 Buzan\u00e7ais - Pont voie ferr\u00e9e",
@@ -2146,6 +2220,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 372,
         "Station": "K442701001",
         "Site": "K4427010",
         "Name_station": "Le Lien \u00e0 Tavers",
@@ -2175,6 +2250,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 378,
         "Station": "F456042001",
         "Site": "F4560420",
         "Name_station": "La Juine \u00e0 Saclas",
@@ -2204,6 +2280,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 380,
         "Station": "K606301001",
         "Site": "K6063010",
         "Name_station": "La Sinaise \u00e0 Rezay",
@@ -2233,6 +2310,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 381,
         "Station": "K437311001",
         "Site": "K4373110",
         "Name_station": "La Dhuy \u00e0 Sandillon - La ferme de Louy",
@@ -2262,6 +2340,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 388,
         "Station": "K637302002",
         "Site": "K6373020",
         "Name_station": "La Petite Sauldre \u00e0 M\u00e9n\u00e9tr\u00e9ol-sur-Sauldre",
@@ -2291,6 +2370,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 410,
         "Station": "K484000102",
         "Site": "K4840001",
         "Name_station": "La Cisse \u00e0 Coulanges - Moulin Jouan",
@@ -2320,6 +2400,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 418,
         "Station": "K419000201",
         "Site": "K4190002",
         "Name_station": "La Notreure \u00e0 Autry-le-Ch\u00e2tel",
@@ -2349,6 +2430,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 423,
         "Station": "K752262011",
         "Site": "K7522620",
         "Name_station": "L'Indre \u00e0 Monts",
@@ -2378,6 +2460,7 @@
         "Commentaire": "Vannages multiples."
     },
     {
+        "nosta": 426,
         "Station": "K113000201",
         "Site": "K1130002",
         "Name_station": "L'Arconce \u00e0 Mornay - Villorbaine",
@@ -2407,6 +2490,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 432,
         "Station": "K652000201",
         "Site": "K6520002",
         "Name_station": "Le Fouzon \u00e0 Dun-le-Po\u00eblier",
@@ -2436,6 +2520,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 435,
         "Station": "K548092010",
         "Site": "K5480920",
         "Name_station": "Le Cher \u00e0 Saint-Florent-sur-Cher",
@@ -2465,6 +2550,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 569,
         "Station": "K118001011",
         "Site": "K1180010",
         "Name_station": "La Loire \u00e0 Digoin - Pont D 979b",
@@ -2494,6 +2580,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 582,
         "Station": "M112481002",
         "Site": "M1124810",
         "Name_station": "L'Aigre \u00e0 Romilly-sur-Aigre",
@@ -2523,6 +2610,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 313,
         "Station": "K153301001",
         "Site": "K1533010",
         "Name_station": "La Besbre \u00e0 Saint-Prix",
@@ -2552,6 +2640,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 272,
         "Station": "K555458001",
         "Site": "K5554580",
         "Name_station": "L'Ouatier \u00e0 Moulins-sur-Y\u00e8vre - Maubranche",
@@ -2581,6 +2670,7 @@
         "Commentaire": "Encombrement sur seuil possible en \u00e9tiage."
     },
     {
+        "nosta": 587,
         "Station": "K428000301",
         "Site": "K4280003",
         "Name_station": "La Bonn\u00e9e \u00e0 Saint-Martin-d'Abbat",
@@ -2610,6 +2700,7 @@
         "Commentaire": "Site dans le remous de la Loire en crue."
     },
     {
+        "nosta": 572,
         "Station": "K632251101",
         "Site": "K6322511",
         "Name_station": "La Sauldre \u00e0 Concressault",
@@ -2639,6 +2730,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 189,
         "Station": "K106301002",
         "Site": "K1063010",
         "Name_station": "Le Sornin \u00e0 Pouilly-sous-Charlieu",
@@ -2668,6 +2760,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 382,
         "Station": "K108402001",
         "Site": "K1084020",
         "Name_station": "La Teyssonne \u00e0 la B\u00e9nisson-Dieu",
@@ -2697,6 +2790,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 211,
         "Station": "K091001011",
         "Site": "K0910010",
         "Name_station": "La Loire \u00e0 Villerest - Pont de Villerest",
@@ -2726,6 +2820,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 323,
         "Station": "K536322001",
         "Site": "K5363220",
         "Name_station": "L'Oeil \u00e0 Cosne-d'Allier",
@@ -2755,6 +2850,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 103,
         "Station": "K091001010",
         "Site": "K0910010",
         "Name_station": "La Loire \u00e0 Villerest - Aval",
@@ -2784,6 +2880,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 17,
         "Station": "K345081001",
         "Site": "K3450810",
         "Name_station": "L'Allier \u00e0 Moulins",
@@ -2813,6 +2910,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 562,
         "Station": "K360301002",
         "Site": "K3603010",
         "Name_station": "La Bieudre \u00e0 Pouzy-M\u00e9sangy - RD 234 - Nouvelle \u00e9chelle",
@@ -2842,6 +2940,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 486,
         "Station": "K269821001",
         "Site": "K2698210",
         "Name_station": "L'Auzon \u00e0 la Roche-Blanche",
@@ -2871,6 +2970,7 @@
         "Commentaire": "Bief en amont (fonctionnement temporaire)"
     },
     {
+        "nosta": 489,
         "Station": "K306031001",
         "Site": "K3060310",
         "Name_station": "Le Sichon \u00e0 Cusset [Moulin Vidot]",
@@ -2900,6 +3000,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 490,
         "Station": "K299401001",
         "Site": "K2994010",
         "Name_station": "[La Credogne] \u00e0 Puy-Guillaume",
@@ -2929,6 +3030,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 495,
         "Station": "K276311001",
         "Site": "K2763110",
         "Name_station": "Le B\u00e9dat \u00e0 C\u00e9bazat [La Maison Rouge]",
@@ -2958,6 +3060,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 497,
         "Station": "K277312001",
         "Site": "K2773120",
         "Name_station": "Le B\u00e9dat \u00e0 Saint-Laure",
@@ -2987,6 +3090,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 513,
         "Station": "K283401001",
         "Site": "K2834010",
         "Name_station": "La Dolore \u00e0 Saint-Bonnet-le-Chastel [Moulin Neuf]",
@@ -3016,6 +3120,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 514,
         "Station": "K285191001",
         "Site": "K2851910",
         "Name_station": "La Dore \u00e0 Ambert",
@@ -3045,6 +3150,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 529,
         "Station": "K330201001",
         "Site": "K3302010",
         "Name_station": "La Sioule \u00e0 Ch\u00e2teauneuf-les-Bains",
@@ -3074,6 +3180,7 @@
         "Commentaire": "Complexe hydro\u00e9l\u00e9ctrique de Fades-Besserve en amont"
     },
     {
+        "nosta": 548,
         "Station": "K297031001",
         "Site": "K2970310",
         "Name_station": "La Durolle \u00e0 Celles-sur-Durolle [Pont de Chazeau]",
@@ -3103,6 +3210,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 565,
         "Station": "K338201003",
         "Site": "K3382010",
         "Name_station": "La Sioule \u00e0 Saint-Pour\u00e7ain-sur-Sioule - Auberge des Aubrelles - Ferm\u00e9e",
@@ -3132,6 +3240,7 @@
         "Commentaire": "Existence d'une microcentrale en amont et d'un bief"
     },
     {
+        "nosta": 79,
         "Station": "K509090001",
         "Site": "K5090900",
         "Name_station": "Le Cher \u00e0 Chambonchard - La Caborne",
@@ -3161,6 +3270,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 343,
         "Station": "K513301001",
         "Site": "K5133010",
         "Name_station": "La Tardes \u00e0 Champagnat",
@@ -3190,6 +3300,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 81,
         "Station": "K514311001",
         "Site": "K5143110",
         "Name_station": "La Voueize \u00e0 Gouzon",
@@ -3219,6 +3330,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 198,
         "Station": "K518302001",
         "Site": "K5183020",
         "Name_station": "La Tardes \u00e0 Chambon-sur-Voueize - Camping",
@@ -3248,6 +3360,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 196,
         "Station": "K522090003",
         "Site": "K5220900",
         "Name_station": "Le Cher \u00e0 Montlu\u00e7on",
@@ -3277,6 +3390,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 101,
         "Station": "K075321001",
         "Site": "K0753210",
         "Name_station": "Le Lignon \u00e0 Bo\u00ebn",
@@ -3306,6 +3420,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 105,
         "Station": "K207502001",
         "Site": "K2075020",
         "Name_station": "Le Donozau \u00e0 Naussac - Aval",
@@ -3335,6 +3450,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 106,
         "Station": "K209081001",
         "Site": "K2090810",
         "Name_station": "L'Allier \u00e0 Saint-Haon - Le Nouveau Monde",
@@ -3364,6 +3480,7 @@
         "Commentaire": "Influenc\u00e9 par le barrage de Naussac"
     },
     {
+        "nosta": 149,
         "Station": "K045401001",
         "Site": "K0454010",
         "Name_station": "La Duni\u00e8res \u00e0 Sainte-Sigol\u00e8ne - Vaubarlet",
@@ -3393,6 +3510,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 161,
         "Station": "K025801001",
         "Site": "K0258010",
         "Name_station": "Le Dolaizon \u00e0 Vals-pr\u00e8s-le-Puy - Les Vigneaux",
@@ -3422,6 +3540,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 318,
         "Station": "K074401001",
         "Site": "K0744010",
         "Name_station": "L'Anzon \u00e0 D\u00e9bats-Rivi\u00e8re-d'Orpra - Cotes",
@@ -3451,6 +3570,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 305,
         "Station": "K033301001",
         "Site": "K0333010",
         "Name_station": "L'Arzon \u00e0 Vorey - Pont Eytravazet",
@@ -3480,6 +3600,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 340,
         "Station": "K027401002",
         "Site": "K0274010",
         "Name_station": "La Sum\u00e8ne \u00e0 Blavozy - Le Bourg",
@@ -3509,6 +3630,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 344,
         "Station": "K062451002",
         "Site": "K0624510",
         "Name_station": "Le Bonson \u00e0 Saint-Marcellin-en-Forez - Le Bled - Pont",
@@ -3538,6 +3660,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 352,
         "Station": "K092401001",
         "Site": "K0924010",
         "Name_station": "Le Renaison \u00e0 Renaison - Ancienne",
@@ -3567,6 +3690,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 371,
         "Station": "K054301001",
         "Site": "K0543010",
         "Name_station": "L'Ance \u00e0 Beauzac - B\u00e9rard",
@@ -3596,6 +3720,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 92,
         "Station": "K021401001",
         "Site": "K0214010",
         "Name_station": "La Gagne \u00e0 Saint-Germain-Laprade - Les Pandraux",
@@ -3625,6 +3750,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 379,
         "Station": "K046301002",
         "Site": "K0463010",
         "Name_station": "Le Lignon \u00e0 Monistrol-sur-Loire [Pont de Lignon] - Station Limnim\u00e9trique",
@@ -3654,6 +3780,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 454,
         "Station": "K287191001",
         "Site": "K2871910",
         "Name_station": "La Dore \u00e0 Saint-Gervais-sous-Meymont [Maison du Parc/Giroux-Dore]",
@@ -3683,6 +3810,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 455,
         "Station": "K322201001",
         "Site": "K3222010",
         "Name_station": "La Sioule \u00e0 Pontgibaud",
@@ -3712,6 +3840,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 481,
         "Station": "K320601002",
         "Site": "K3206010",
         "Name_station": "Le Ceyssat \u00e0 Ceyssat - Pont",
@@ -3741,6 +3870,7 @@
         "Commentaire": "Depuis l'\u00e9t\u00e9 2006, le d\u00e9bit n'est plus le d\u00e9bit total (r\u00e9ouverture d'un bief)"
     },
     {
+        "nosta": 412,
         "Station": "K054301201",
         "Site": "K0543012",
         "Name_station": "L'Andrable \u00e0 Apinac - Les Terrasses",
@@ -3770,6 +3900,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 399,
         "Station": "K001872301",
         "Site": "K0018723",
         "Name_station": "La Loire \u00e0 Usclades-et-Rieutord - Rieutord - DREAL CVL",
@@ -3799,6 +3930,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 414,
         "Station": "K034000101",
         "Site": "K0340001",
         "Name_station": "La Loire \u00e0 Vorey - Le Chambon de Vorey",
@@ -3828,6 +3960,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 524,
         "Station": "K222303001",
         "Site": "K2223030",
         "Name_station": "L'Ance [du sud] \u00e0 Saint-Pr\u00e9jet-d'Allier - Ancienne",
@@ -3857,6 +3990,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 525,
         "Station": "K223402001",
         "Site": "K2234020",
         "Name_station": "La Virlange \u00e0 Saugues [Freycenet]",
@@ -3886,6 +4020,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 581,
         "Station": "K259301401",
         "Site": "K2593014",
         "Name_station": "[B\u00e9al] \u00e0 Lempdes-sur-Allagnon [Bief]",
@@ -3915,6 +4050,7 @@
         "Commentaire": "Mesures au niveau du B\u00e9al ou Bief."
     },
     {
+        "nosta": 287,
         "Station": "K523401001",
         "Site": "K5234010",
         "Name_station": "La Magieure \u00e0 Vaux",
@@ -3944,6 +4080,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 88,
         "Station": "K201082001",
         "Site": "K2010820",
         "Name_station": "L'Allier \u00e0 Laveyrune - Rogleton",
@@ -3973,6 +4110,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 96,
         "Station": "K056752001",
         "Site": "K0567520",
         "Name_station": "La Sem\u00e8ne \u00e0 Saint-Didier-en-Velay - Le Crouzet",
@@ -4002,6 +4140,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 98,
         "Station": "K064311001",
         "Site": "K0643110",
         "Name_station": "La Mare \u00e0 Saint-Marcellin-en-Forez - V\u00e9rines",
@@ -4031,6 +4170,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 99,
         "Station": "K069001001",
         "Site": "K0690010",
         "Name_station": "La Loire \u00e0 Montrond-les-Bains",
@@ -4060,6 +4200,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 145,
         "Station": "K055001010",
         "Site": "K0550010",
         "Name_station": "La Loire \u00e0 Bas-en-Basset",
@@ -4089,6 +4230,7 @@
         "Commentaire": "Influenc\u00e9 par la gestion du barrage de Lavalette."
     },
     {
+        "nosta": 166,
         "Station": "K040301001",
         "Site": "K0403010",
         "Name_station": "Le Lignon au Chambon-sur-Lignon",
@@ -4118,6 +4260,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 167,
         "Station": "K011402001",
         "Site": "K0114020",
         "Name_station": "La Gazeille au Monastier-sur-Gazeille - La Besseyre Haute",
@@ -4147,6 +4290,7 @@
         "Commentaire": "Site ferm\u00e9 d\u00e9but 2024 car il n'\u00e9tait pas assez repr\u00e9sentatif de la production globale du bassin de la Gazeille car situ\u00e9 en t\u00eate du bassin versant. De plus, ce site manquait de pr\u00e9cision \u00e0 l'\u00e9tiage et n'\u00e9tait pas assez fiable en crue en raison d'un \u00e9coulement tr\u00e8s violent.  Il est remplac\u00e9 par le site de La Gazeille \u00e0 Chadron ( K011 4030) ouvert en 2015."
     },
     {
+        "nosta": 169,
         "Station": "K010002010",
         "Site": "K0100020",
         "Name_station": "La Loire \u00e0 Goudet",
@@ -4176,6 +4320,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 170,
         "Station": "K207081010",
         "Site": "K2070810",
         "Name_station": "L'Allier \u00e0 Langogne",
@@ -4205,6 +4350,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 174,
         "Station": "K217302001",
         "Site": "K2173020",
         "Name_station": "Le Chapeauroux \u00e0 Saint-Bonnet-de-Montauroux",
@@ -4234,6 +4380,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 306,
         "Station": "K040302002",
         "Site": "K0403020",
         "Name_station": "Le Lignon aux Vastres - Pont Marie",
@@ -4263,6 +4410,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 308,
         "Station": "K045402001",
         "Site": "K0454020",
         "Name_station": "La Duni\u00e8res \u00e0 Duni\u00e8res",
@@ -4292,6 +4440,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 309,
         "Station": "K051301001",
         "Site": "K0513010",
         "Name_station": "L'Ance \u00e0 Sauvessanges",
@@ -4321,6 +4470,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 339,
         "Station": "K035631001",
         "Site": "K0356310",
         "Name_station": "Le Ramel \u00e0 Beaux - Malataverne",
@@ -4350,6 +4500,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 361,
         "Station": "K025302002",
         "Site": "K0253020",
         "Name_station": "La Borne \u00e0 Aiguilhe",
@@ -4379,6 +4530,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 362,
         "Station": "K013401001",
         "Site": "K0134010",
         "Name_station": "La Laussonne \u00e0 Lantriac - Pont de Moulines",
@@ -4408,6 +4560,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 363,
         "Station": "K004551001",
         "Site": "K0045510",
         "Name_station": "La M\u00e9jeanne \u00e0 Saint-Arcons-de-Barges - Montbel",
@@ -4437,6 +4590,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 389,
         "Station": "K011403001",
         "Site": "K0114030",
         "Name_station": "La Gazeille \u00e0 Chadron - Colempce Bas",
@@ -4466,6 +4620,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 390,
         "Station": "K225401001",
         "Site": "K2254010",
         "Name_station": "La Seuge \u00e0 Saugues",
@@ -4495,6 +4650,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 558,
         "Station": "K202000101",
         "Site": "K2020001",
         "Name_station": "Le Masm\u00e9jan \u00e0 Saint-\u00c9tienne-de-Lugdar\u00e8s [Hu\u00e9dour]",
@@ -4524,6 +4680,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 518,
         "Station": "K206401002",
         "Site": "K2064010",
         "Name_station": "Le Langouyrou \u00e0 Langogne - Passerelle bois",
@@ -4553,6 +4710,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 519,
         "Station": "K213401001",
         "Site": "K2134010",
         "Name_station": "La Clamouse \u00e0 Chastanier",
@@ -4582,6 +4740,7 @@
         "Commentaire": null
     },
     {
+        "nosta": 165,
         "Station": "K230081001",
         "Site": "K2300810",
         "Name_station": "L'Allier \u00e0 Langeac",
