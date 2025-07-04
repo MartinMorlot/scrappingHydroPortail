@@ -9,14 +9,16 @@ class Driver():
     driver_path = 'chromedriver-linux64/chromedriver'  # You need to download this and provide the path
     By = By
     NoSuchElementException = NoSuchElementException
+    options = None
     
     
     def __init__(self):
         # Set up the headless browser
-        self.options = Options()
-        self.options.add_argument("--headless")  # Run in headless mode, without opening a browser window
-        self.options.add_argument("--disable-gpu")
-        self.options.add_argument("--window-size=1920x1080")
+        if not self.options:
+            self.options = Options()
+            self.options.add_argument("--headless")  # Run in headless mode, without opening a browser window
+            self.options.add_argument("--disable-gpu")
+            self.options.add_argument("--window-size=1920x1080")
 
         # Create a Service object
         self.service = Service(executable_path=self.driver_path)
