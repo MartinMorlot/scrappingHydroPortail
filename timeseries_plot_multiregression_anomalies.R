@@ -58,7 +58,7 @@ ggcorrplot(corr_matrix[1:30,1:30], type = "lower",
            lab = TRUE)
 
 
-pdf("Correlations_over_08.pdf")
+pdf("Correlations_over_08_new.pdf")
 for(col in colnames(corr_matrix)){
   data <-corr_matrix[,col]
   rm_slot <- which(names(data) == col)
