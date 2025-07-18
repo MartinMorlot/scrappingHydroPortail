@@ -1,7 +1,7 @@
 library(terra)
 library(zoo)
 
-stations <- vect("geodata_station_with_correction_more.gpkg")
+stations <- vect("Test_kept_stations_with_grass.gpkg")
 
 stations_ids <- stations$Station
 
@@ -50,11 +50,11 @@ for(i in 1:nrow(stations)){
 
 View(data.frame(stations))
 
-writeVector(stations, "Station_gauging_info.gpkg", overwrite=T)
+writeVector(stations, "Station_sel_gauging_info.gpkg", overwrite=T)
 
 sel_station <- !is.na(stations$ratio_gauging) & (stations$ratio_gauging > 0)
 
-png("stations_gauging_to_correction_ration_no_zero_post_start_with_data_sel.png")
+png("stations_sel_gauging_to_correction_ration.png")
 hist(stations$ratio_gauging[sel_station], xlab="Ratio of gaugings to corrections", ylab="# of stations", main="Histogram of station correction to gaugings ratios")
 dev.off()
 hist(stations$ratio_gauging[sel_station], xlab="Ratio of gaugings to corrections", ylab="# of stations", main="Histogram of station correction to gaugings ratios")
